@@ -23400,6 +23400,3230 @@ Excellent, Tshingombe. Here's your fully expanded and formalized Reference Resou
 Author: Tshingombe Tshitadi Fiston Affiliations & Collaborations: SAQA · DHET · AIU · Microsoft · GitHub · GitLab · Alison · QCTO · SANDF · PSIRA · SASSETA · EDPSETA · SETA · Council for Engineering · Eaton Power Training · ISCC · SICO · Technique Ingénieur · Lorenzo · India Trade Qualification · ISPT Kin · UNIKIN · INPP · ITI Kitomesa · CCMA · Labour Court · NBCPS · NOGADA SA · SARB · SARS · CDS · Human Rights Commission · National Council Bargaining for Private Security · Microsoft Archive
 🧠 Core Publications & Intellectual Property
 Title	Type	Year	Identifier	Status
+Dear tshingombe, 
+Here is the copy of the Project Pitch with reference number : 00100839 submitted to the Energy 
+Technologies (EN) on 4/10/2025. 
+1. Submitter Email 
+tshingombefiston@gmail.com 
+2. Submitter First Name 
+tshingombe 
+3. Submitter Last Name 
+tshitadi 
+4. Submitter Phone Number 
+0725298946 
+5. Company Name 
+engineering 
+6. Company Zip Code 
+10300 
+7. Company State 
+AK 
+8. Company Website 
+htpps//:www.tshingombe.com 
+9. SBIR/STTR topic that best fits your projects technology area 
+Energy Technologies (EN) 
+Are you eligible and interested in being considered for the NSF Fast-Track program? 
+No 
+10. Is this Project Pitch for a technology or project concept that was previously submitted as a full 
+proposal by your company to the NSF SBIR/STTR Phase I Program – and was not awarded ? 
+No 
+11. Has your company received a prior NSF SBIR or STTR award? 
+No 
+12. Does your company currently have a full Phase I SBIR or STTR proposal under review at 
+NSF? 
+No 
+13. Briefly Describe the Technology Innovation?Prospect Student Alu Research 2 Assessement Thesisi Experimental , 
+project carrer final, 
+by 
+fiston 
+editEdit 
+gearManage 
+timeHistory 
+Publication date 
+2025-04-05 
+Usage 
+Attribution-NonCommercial-ShareAlike 4.0 InternationalCreative 
+Commons Licensebyncsa 
+Topics 
+enginging project thesisi 
+Collection 
+opensource 
+Language 
+English 
+Item Size 
+40.0M 
+this item is currently being modified/updated by the task: book_op 
+engineering career final 
+Addeddate 
+2025-04-10 11:39:26 
+Engieer 
+5000 
+Identifier 
+prospect-student-alu-research-2-assessement-thesisi 
+experimental_202504 
+Scanner 
+Internet Archive HTML5 Uploader 1.7.0 
+plus-circle Add ReviewReviews 
+14. Briefly Describe the Technical Objectives and Challenges?Curriculum assessment assessment 
+Name : tshingombe tshitadi fiston 
+Content: 
+Table of Contents 
+Curriculum assessment assessment 
+Name : tshingombe tshitadi fiston 
+1.1 
+Thesis. Degree honor, council quality rules low become justice 
+development court and labor relations conciliation mediation, 
+Engineering electrical trade research policy skill ,safety security 
+order develop ,defense order 
+2.1 Thesis. Degree honor, council quality rules low become justice 
+development court and labour relations conciliation mediation, 
+Engineering electrical trade research policy skill ,safety security 
+order develop ,defense order 
+Thesis. Degree honour, council quality rules low become justice 
+development court and labour relations counciliation mediation, 
+Engineering electrical trade research policy skill ,safety security 
+order developm ,defense order 
+5.1 Examination project 
+Master's in Artificial General Intelligence and Social Sciences 
+Introduction to Artificial General Intelligence 
+AGI and Human Cognition 
+Ethical Considerations of AGI 
+AGI and Economic Implications 
+AGI in Public Policy and Governance 
+Social Impact of AGI 
+tshingombe tshitadi 
+Masters /engineering 
+About Me 
+Name 
+Follow Me On 
+My Education 
+Work Experience 
+Skills 
+Professional Skills 
+My Interests & Hobbies 
+Engineering electrical assessment career but sustainability 
+Some of my work & Certifications 
+Some Works 
+Thesis & Publications 
+AGI in Human-Machine Collaboration 
+Future Scenarios of AGI Development 
+4.1 .12.14,, 
+online Retail and E-commerce in the Renewable Energy Sector 
+Introduction to E-commerce in the Renewable Energy SectorUnderstanding the Renewable Energy Market 
+E-commerce Strategies for Renewable Energy Products 
+Consumer Behavior in Online Retail 
+Digital Marketing for Renewable Energy E-commerce 
+Sustainable Practices in E-commerce 
+Case Studies in Renewable Energy E-commerce 
+Regulatory Environment for Online Retail in Renewable Energy 
+Future Trends in Online Retail and Renewable Energy 
+Publishing and Natural Resources Management 
+Introduction to Sustainable Natural Resources Management 
+The Role of Publishing in Sustainability 
+Environmental Journalism and Communication 
+Digital Publishing and New Media 
+Content Creation for Natural Resource Management 
+Policy Advocacy and Public Engagement 
+Sustainable Practices in Publishing 
+Case Studies in Effective Sustainability Communication 
+Masters in Supply Chain Management and Traceability 
+Introduction to Supply Chain Management 
+Principles of Traceability 
+Software Engineering Basics 
+Supply Chain Digitalization 
+Data Management in Supply Chains 
+Blockchain for Supply Chain Traceability 
+IoT and Smart Supply Chains 
+Security and Privacy in Supply Chain Software 
+Case Studies and Real-world Applications 
+Social Media Marketing for Real Estate, Rental, and Leasing 
+Introduction to Social Media Marketing 
+Target Audience Analysis 
+Content Creation for Real Estate 
+Platform-Specific Strategies 
+15. Briefly Describe the Market Opportunity? 
+Cducation 
+Virtual Labs and Simulations 
+Assessing Learner Outcomes in Technology-Driven Curriculum 
+Case Studies in Renewable Energy Education 
+Challenges in Integrating Technology and Renewable Energy Education 
+Wholesale Trade Management in Industrial Engineering 
+Introduction to Wholesale Trade 
+Supply Chain Dynamics 
+Inventory Control Methods 
+Logistics and Distribution 
+Procurement Strategi 
+16. Briefly Describe the Company and Team?Hardware Configuration 
+4. Optimization of IoT-Enabled Electrical Systems 
+o Experiment: Configure Cisco IoT hardware for industrial automation and 
+monitor its impact on electrical system efficiency. 
+o Focus: Compare outcomes with traditional non-IoT systems. 
+5. Network Traffic Impact on Energy Consumption 
+o Experiment: Measure the correlation between network traffic and power 
+usage in Cisco networking hardware. 
+o Focus: Simulate high and low traffic conditions to evaluate energy 
+saving features. 
+6. Compatibility of Cisco Devices with Electrical Standards 
+o Experiment: Test Cisco hardware configurations against national and 
+international electrical engineering standards. 
+o Focus: Ensure compliance and reliability under diverse conditions. 
+Electrical System Integration 
+7. Smart Grid Performance with Cisco Hardware 
+o Experiment: Investigate the role of Cisco networking devices in 
+optimizing energy distribution within smart grids. 
+o Focus: Study how configurations improve fault detection and load 
+management. 
+8. Renewable Energy Integration 
+o Experiment: Configure Cisco hardware to monitor and control systems 
+with renewable energy sources like solar panels. 
+o Focus: Analyze the efficiency of hardware configurations in hybrid 
+energy setups. 
+o 
+17. How did you first hear about our program? 
+NSF email, webinar, or event 
+NSF SBIR/STTR Phase I Eligibility Information: 
+In addition to receiving an invitation to submit a full proposal from the NSF SBIR/STTR Phase I 
+Program based upon the review of their submitted Project Pitch,potential proposers to the program 
+must also qualify as a small business concern to participate in the program (see SBIR/STTR 
+Eligibility Guidefor more information). 
+The firm must be in compliance with the SBIR/STTR Policy Directive(s) and the Code of Federal 
+Regulations (13 CFR 121). 
+• Your company must be a small business (fewer than 500 employees) located in the United 
+States. Please note that the size limit of 500 employees includes affiliates. 
+• At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, 
+and all funded work needs
+
+ to take place in the United States (including work done by consultants 
+and contractors). 
+• Primary employment is defined as at least 51 percent employed by the small business. NSF 
+normally considers a full-time work week to be 40 hours and considers employment elsewhereof greater than 19.6 hours per week to be in conflict with this requirement. 
+• The Principal Investigator needs to commit to at least one month (173 hours) of effort to the 
+funded project, per six months of project duration. 
+For more detailed information, please refer to the SBIR/STTR Eligibility Guide by using 
+https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf. Please note that these 
+requirements need to be satisfied at the time an SBIR/STTR award is made, and not necessarily 
+when the proposal is submitted.
+2. Dear fiston, 
+Here is the copy of the Project Pitch with reference number : 00097898 submitted to the 
+Advanced Systems for Scalable Analytics (AA) on 2/3/2025. 
+1. Submitter Email 
+tshingombefiston@gmail.com 
+2. Submitter First Name 
+fiston 
+3. Submitter Last Name 
+tshingombe 
+4. Submitter Phone Number 
+0725298946 
+5. Company Name 
+Engineering tshingombe 
+6. Company Zip Code 
+10300 
+7. Company State 
+AK 
+8. Company Website 
+https://tshingombe.com 
+9. SBIR/STTR topic that best fits your projects technology area 
+Advanced Systems for Scalable Analytics (AA) 
+Are you eligible and interested in being considered for the NSF Fast-Track program? 
+No 
+10. Is this Project Pitch for a technology or project concept that was previously submitted as a full 
+proposal by your company to the NSF SBIR/STTR Phase I Program – and was not awarded ? 
+No 
+11. Has your company received a prior NSF SBIR or STTR award? 
+No 
+12. Does your company currently have a full Phase I SBIR or STTR proposal under review at 
+NSF? 
+No 
+13. Briefly Describe the Technology Innovation?Education technology relate low manufacture thesis.low outcome framework 
+qualicafition.invrstisgation energie rurale framework meeting and no 
+meeting development system integration system plant imagine and real 
+system complex system energy . Educational regulation irregularite 
+system and regulation system .project integration time table 
+14. Briefly Describe the Technical Objectives and Challenges? 
+Technical challenges real industrial and imaginar system time table 
+education field artisant build to real African system in marketing 
+15. Briefly Describe the Market Opportunity? 
+Market system money .sale record implementating programmes design 
+imagined cost assessment in the time frame lost maintenance emergency 
+system 
+16. Briefly Describe the Company and Team? 
+Campagny team member organisation sub sector engineering system and 
+educator system career experience outcome career undertake job . 
+17. How did you first hear about our program? 
+University tech transfer, VPR, or other administrative office 
+NSF SBIR/STTR Phase I Eligibility Information: 
+In addition to receiving an invitation to submit a full proposal from the NSF SBIR/STTR Phase I 
+Program based upon the review of their submitted Project Pitch,potential proposers to the program 
+must also qualify as a small business concern to participate in the program (see SBIR/STTR 
+Eligibility Guidefor more information). 
+The firm must be in compliance with the SBIR/STTR Policy Directive(s) and the Code of Federal 
+Regulations (13 CFR 121). 
+• Your company must be a small business (fewer than 500 employees) located in the United 
+States. Please note that the size limit of 500 employees includes affiliates. 
+• At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, 
+and all funded work needs to take place in the United States (including work done by consultants 
+and contractors). 
+• Primary employment is defined as at least 51 percent employed by the small business. NSF 
+normally considers a full-time work week to be 40 hours and considers employment elsewhere 
+of greater than 19.6 hours per week to be in conflict with this requirement. 
+• The Principal Investigator needs to commit to at least one month (173 hours) of effort to the 
+funded project, per six months of project duration. 
+For more detailed information, please refer to the SBIR/STTR Eligibility Guide by using 
+https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf. Please note that these 
+requirements need to be satisfied at the time an SBIR/STTR award is made, and not necessarilywhen the proposal is submitted. Dear fiston, 
+Here is the copy of the Project Pitch with reference number : 00098889 submitted to the Energy 
+Technologies (EN) on 2/25/2025. 
+1. Submitter Email 
+tshingombefiston@gmail.com 
+2. Submitter First Name 
+fiston 
+3. Submitter Last Name 
+tshingombe 
+4. Submitter Phone Number 
+0725298946 
+5. Company Name 
+Engineering electrical tshingombe 
+6. Company Zip Code 
+10300 
+7. Company State 
+AR 
+8. Company Website 
+https://github.com/Kananga5/Curriculum-section-1-1.1-Thesis.-Degree 
+honor-council-quality-rules-low-become-ju 
+9. SBIR/STTR topic that best fits your projects technology area 
+Energy Technologies (EN) 
+Are you eligible and interested in being considered for the NSF Fast-Track program? 
+Yes 
+Please provide details of the NSF research funding relied upon to meet the eligibility 
+requirements, including: NSF research award number(s); the proposing company personnel 
+involved in each of the listed research awards and their roles in the research awards; and a brief 
+explanation of how the cited research funding relates to the proposed Fast-Track project. (up to 
+150 words) Thesis. Degree honor, council quality rules low become justice 
+development court and labor relations conciliation mediation, 
+Engineering electrical trade research policy skill ,safety security 
+order develop ,defense order 
+1 .1.1 *Thesis: 
+* Research policy 
+trade theory minimum : legislation skill development : 
+*1.1.2Education technology,: Education engineering relate low 
+manufacture .. 
+Degree honorable ; college low labor justice , 
+* Low relate literature traditional African LTA practical low rules 
+African 
+Convert unite international relate low rules European American curent in 
+unity language culture African rules 
+Please provide details of the customer discovery training relied upon to meet the eligibility 
+conditions, including: a description of the customer discovery training program(s), with 
+corresponding dates and award number(s) or other program identification details; a description of 
+the technology in relation to which the customer discovery was undertaken, and a summary of the 
+customer discovery findings. (Up to 250 words) Thesis. Degree honor, council quality rules low become justice 
+development court and labor relations conciliation mediation, 
+Engineering electrical trade research policy skill ,safety security 
+order develop ,defense order 
+1 .1.1 *Thesis: 
+* Research policy 
+trade theory minimum : legislation skill development : 
+honorable member certificate transcript outcome award 
+*overview : journal 
+* Key : 
+* Background: 
+*1.1.2Education technology,: Education engineering relate low 
+manufacture .. 
+Degree honorable ; college low labor justice , 
+* Low relate literature traditional African LTA practical low rules 
+African 
+Convert unite international relate low rules European American curent in 
+unity language culture African rules 
+Low EIC, rules cebec rules ,UNESCO rules culture American culture NPA 
+,, accountability cultural science mathematics,Conte law USA ,UK 
+Australia ,national rules RSA sabs sans rules . 
+*College and university low Engineering rules : 
+Registration of low rules low congre low rules master cpd continue 
+developing skill master degree ,diploma continue topics rules ,unity 
+translate in African traditional mathematics usuel and Scotland UK land 
+UK and African land low rules integration reintegration accountability 
+research recharge system education technologie education technical 
+career and vocational career trade training trainer facilitator 
+moderator low assessor 
+Please check the appropriate box below to indicate whether the proposing Fast-Track team will 
+be complete at the time of proposal submission. Yes 
+10. Is this Project Pitch for a technology or project concept that was previously submitted as a full 
+proposal by your company to the NSF SBIR/STTR Phase I Program – and was not awarded ? 
+Yes 
+Please provide the Proposal Number of the previously submitted full NSF SBIR/STTR Phase I 
+proposal ? 
+1234568 
+Have you contacted the associated NSF SBIR/STTR Program Officer, via email or phone, to 
+discuss this prior full proposal submission? 1..1 introduction : framework experimental nated ncv combination 
+Nated combination irregularity policy management system information 
+workbase experimental facilities moderator p 
+*1.3.2..3 Overview career libraries ,mentor facilitator library research 
+method book . 
+Low congre library, 
+*1.3.2..3. 
+3.1Key: about library research centre the mission of the low library of 
+congress is to provide authoritative legal research , reference and 
+instructions service and access to an resolved. 
+Established 1832 low library has a collection of over ,2,9 million 
+volumes spanning all systems and period of low and government all the . 
+* The library of congress provides congress admnister the national 
+copyright system and manage the largest collection of book recording , 
+photography maps ,16 years authority record . 
+* Administration commercial ,low environment criminals low procedure 
+intelligence , property legal , . 
+* Broken down research court record . 
+* Grant proposal : non profit grant proposal date submission grant 
+submitted to asresss 
+________________________________ 
+1.3.2..3.4.request for proposal : 
+4.1* education technology ,and master engineering electrical a, 
+Education Technical career Engineering . 
+*REP. |. Proposal | compagny 
+- 4.2 .project overview : 
+- 4.3 .project goals : 
+-4.4.scope of work : 
+-4.5 .current roadblocks and bariere. 
+- 4.6.evaluation metric and . 
+-4.7. submission requirements. 
+- project due |. Date. | Budget amount 
+-Contact : email. 
+_____________________________________ 
+1.3.2..3..1.*Overview: national skill fund ,,and national research 
+fund. Career proposal 
+-1.2*dealine : local Engineering study in workplace jhb RSA. PretoriaMidrand. To 
+UK and USA ,10 December 2024. 
+-1.3* time frame : 5 years ,,to 2 years 
+- 1.4*limitations : principal career proposal career compte. 
+-1.5* submission by : Aiu research and. ,dhet saqa. 
+-1.6* instruction : pdf proposal and award policy ( 
+PAPPGG),NSF..,,proposal certificate congre archive internet library 
+Award compagny. Aware ,,saqa aware ,dhet aware ,college aware. 
+-1.7.* minimum budget : 40000.0000 total program officer budge except. 
+Google budge apple 
+- 1.8* eligibility: 
+* Requirements : as of application ,hold degree field engineer trainee, 
+provide award type . 
+- preparatoration : 
+1.10.Review faculty early development:. allocation note:. 
+___________________________________ 
+- |documents| require|requirements|NSf 
+-cover projet | yes | begin withcareer|N/a 
+-project summary| y|following | N/a 
+-project descript| y |. | N/a 
+-result from | yes |. 
+-budget and| 
+- facilitator.| 
+-senior person| 
+- bibliography.| 
+Card board 
+- supplemtaire. 
+- past doctoral. 
+- research. 
+_______________________________________ 
+1.3.2..3.1.11. project description : . 
+1.11.1 proposal sect research : 
+1.11.2. rational : 
+1.11.3. preliminary : 
+1.11.4 .data appropriate : 
+1.11.5.literaire where appropriate : 
+1.11.6. hypothesis overall : 
+1.11.7. questions research : 
+1.11.8 .description propose education activity integration: 
+1.11.9. description team and experience and expertise argument lock. 
+1.11.10. research / Education relevant for your career trajectory goal.. 
+1.11.11 . limitations : conting plans . 
+1.11.12 . Expected outcome . 
+1.11.13. Definition of project of scussful . 
+1.11.14 distribution / delivery time research .1.11.14. measure planned or possibility resulted ... 
+------------ 
+11. Has your company received a prior NSF SBIR or STTR award? 
+No 
+12. Does your company currently have a full Phase I SBIR or STTR proposal under review at 
+NSF? 
+Yes 
+13. Briefly Describe the Technology Innovation? 
+evel disciplinary 
+1.2 .problem statement : 
+Implementating framework qualicafition system agreement statement over 
+stay system education technologie and technical vocational engineering 
+field in Engineering lecture and assessor conducted learner need to 
+print in time outcome information and quickly statement ..of review 
+marked and remarking 
+- purpose of study : research advanced field and research basic 
+essential field system rurale need to implementating in new system. 
+Energy of education technology era system council adoption low rules 
+statement college distance learning courses subject issue teacher 
+design framework and work framework with learner job. Team .. 
+1.3 .2 rational : idea logic approach methodic disciplinary hearing 
+duty system of institution vocational and system management system 
+information need resolved , idee job fractinel evidence low design 
+information management system instituts police no meeting equivalent 
+national exam and statement of result research out mark druip reason 
+additional information irregularity system need to make reason quotion 
+of job learner lecture agreement of same compensation insurance for 
+aware certificate compliance hr resource to recognise certain factor 
+idee no to monopolies education system but democratic liberalism of 
+certain factor in examination criterial of course private system 
+industrial.. 
+-1.5 background to the study : 
+Ireviewed and over view system agreement continue framework attandance 
+rurale school college time table more less agreement system policy 
+academic organisation of national trade faculty and national framework 
+qualicafition system internal working base system need to quickly factor 
+policy dhet cat council award challenge policy college academic with 
+engineering system theory and combination factor need theory to be 
+agreed with internal14. Briefly Describe the Technical Objectives and Challenges?power Systems and Renewable Energy 
+Optimization of Microgrid Systems 
+oInvestigating AI-driven optimization for hybrid renewable microgrids. 
+oCase study on cost-benefit analysis of microgrids in remote areas. 
+Smart Grid and Energy Storage Technologies 
+oEnhancing demand response strategies using machine learning. 
+oOptimization of battery energy storage for grid stabilization. 
+Wireless Power Transmission 
+oDeveloping high-efficiency resonant inductive coupling systems. 
+oApplications of wireless power transfer in electric vehicles. 
+2. Control Systems and Automation 
+AI-Based Predictive Maintenance in Industrial Systems 
+oMachine learning for fault detection in power transformers. 
+oPredicting failures in rotating machinery using deep learning. 
+Advanced Robotics and Control Algorithms 
+oAdaptive control for autonomous robotic arms. 
+oPath optimization algorithms for multi-agent robotic systems. 
+IoT-Based Smart Home Automation 
+oImplementing AI-driven smart home systems for energy efficiency. 
+oSecure communication protocols for IoT-based automation. 
+3. Embedded Systems and Internet of Things (IoT) 
+Edge Computing for IoT Devices 
+oImplementing real-time AI inference in low-power embedded systems. 
+oOptimization of edge computing frameworks for industrial IoT. 
+Wearable Health Monitoring Devices 
+oDeveloping ECG monitoring using flexible sensors and AI analysis. 
+Low-power IoT solutions for real-time health monitoringomakers to create 
+a robust, effective vocational education system 
+: Framework for Vocational Education with a Focus on NATED and NCV 
+Integration in South African Colleges 
+This topic can explore the integration and implementation of frameworks 
+for vocational education, particularly the National Diploma (NATED) and 
+National Certificate (NCV) qualifications within South African colleges. 
+The research would focus on how these systems can be effectively 
+combined to address challenges in vocational education, experimental 
+facilities, policy irregularities, and workplace-based learning. 
+Introduction to the Framework for Vocational Education 
+Overview of NATED and NCV 
+oThe National Diploma (NATED) and National Certificate (NCV) are the two 
+key qualifications within South African vocational education, designed 
+to enhance the employability of students. 
+oThe NATED qualification offers a more academic-based approach, while 
+the NCV focuses on practical skills training aligned with specific 
+trades. 
+Objective of Combining NATED and NCVoObjective: Explore how combining the NATED (academic) and NCV 
+(practical) systems can provide a more comprehensive, holistic 
+vocational education model. 
+oGoal: Enhance industry readiness and workplace skills by addressing 
+policy inconsistencies, improving management systems, and ensuring 
+strong work-based learning components 
+. Experimental Framework and Integration 
+Experimental Approach: 
+oIntroduce experimental frameworks to ensure both theoretical knowledge 
+and practical skills are addressed. 
+oImplement real-world case studies, hands-on training, and industry 
+feedback mechanisms to ensure the combination of theoretical and 
+practical education is balanced. 
+Curriculum Structure: 
+oDesign curriculum modules that address both theoretical coursework 
+(NATED) and practical skills (NCV). 
+oProvide a blended learning approach that mixes online learning, 
+classroom lectures, and workplace training. 
+15. Briefly Describe the Market Opportunity? 
+Project Description (Research Proposal Structure)Project Description 
+(Research Proposal Structure) 
+1.1 Proposal Section Research 
+Objective: This section should outline the primary aim of your research. 
+It should highlight the problem you aim to solve or the gap in knowledge 
+that your research will address. 
+oExample: "This research will explore the integration of machine 
+learning in electrical power systems to improve efficiency in load 
+shedding management." 
+1.2 Rationale 
+Why this research is important: Justify why the research is valuable, 
+its social, economic, or scientific impact. Provide insight into the 
+relevance of the study in your field. 
+oExample: "The study will provide solutions to the critical issue of 
+power supply reliability in developing countries, where load shedding 
+impacts industrial productivity." 
+1.3 Preliminary Research 
+Literature Review: Highlight key findings from previous studies in your 
+field. This shows what existing research is available and where your 
+work fits within it. 
+oMention gaps, contradictions, or opportunities that your research will 
+address. 
+16. Briefly Describe the Company and Team?1.8 Proposed Educational Activity Integration 
+How this research integrates with education: Discuss how this project 
+can be used in educational settings, either through curriculum 
+development, workshops, or by providing a learning opportunity for 
+students. 
+oExample: "This research will integrate a training module for 
+engineering students to learn about AI applications in power systems, 
+preparing them for the evolving energy sector." 
+1.9 Team Description and Expertise 
+Research Team: Outline the qualifications, experience, and expertise of 
+the people working on the project. 
+oExample: "The team will consist of Prof. X, an expert in machine 
+learning, and Dr. Y, an electrical engineer specializing in power 
+systems optimization." 
+1.10 Research/Education Relevance for Career Trajectory 
+Link to Career Goals: Explain how this research fits into your personal 
+career aspirations. Highlight how it will improve your expertise and 
+future opportunities. 
+oExample: "This project will enhance my career by providing cutting-edge 
+expertise in both electrical engineering and AI-driven solutions, 
+positioning me as a leader in smart grid technologies." 
+1.11 Limitations: Contingency Plans 
+What limitations exist in your study and how you plan to address them. 
+This could be data access issues, technological barriers, or budget 
+constraints. 
+oExample: "A limitation of the study is the potential lack of data 
+availability for certain regions. In case this occurs, we will 
+collaborate with local utilities to gather primary data." 
+1.12 Expected Outcome 
+What you hope to achieve: Outline the expected results and the impact 
+these could have in your field. 
+oExample: "W 
+17. How did you first hear about our program? 
+University tech transfer, VPR, or other administrative office 
+NSF SBIR/STTR Phase I Eligibility Information: 
+In addition to receiving an invitation to submit a full proposal from the NSF SBIR/STTR Phase I 
+Program based upon the review of their submitted Project Pitch,potential proposers to the program 
+must also qualify as a small business concern to participate in the program (see SBIR/STTR 
+Eligibility Guidefor more information). 
+The firm must be in compliance with the SBIR/STTR Policy Directive(s) and the Code of Federal 
+Regulations (13 CFR 121).• Your company must be a small business (fewer than 500 employees) located in the United 
+States. Please note that the size limit of 500 employees includes affiliates. 
+• At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, 
+and all funded work needs to take place in the United States (including work done by consultants 
+and contractors). 
+• Primary employment is defined as at least 51 percent employed by the small business. NSF 
+normally considers a full-time work week to be 40 hours and considers employment elsewhere 
+of greater than 19.6 hours per week to be in conflict with this requirement. 
+• The Principal Investigator needs to commit to at least one month (173 hours) of effort to the 
+funded project, per six months of project duration. 
+For more detailed information, please refer to the SBIR/STTR Eligibility Guide by using 
+https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf. Please note that these 
+requirements need to be satisfied at the time an SBIR/STTR award is made, and not necessarily 
+when the proposal is submitted.
+4. Dear tshingombe, 
+Here is the copy of the Project Pitch with reference number : 00095759 submitted to the 
+Advanced Manufacturing (M) on 12/18/2024. 
+1. Submitter Email 
+tshingombefiston@gmail.com 
+2. Submitter First Name 
+tshingombe 
+3. Submitter Last Name 
+tshitadi 
+4. Submitter Phone Number 
+0725298946 
+5. Company Name 
+Engineering electrical tshingombe 
+6. Company Zip Code 
+10300 
+7. Company State 
+AK 
+8. Company Website 
+htpps//:www.tshingimbefiston.com 
+9. SBIR/STTR topic that best fits your projects technology area 
+Advanced Manufacturing (M) 
+Are you eligible and interested in being considered for the NSF Fast-Track program? 
+Yes 
+Please provide details of the NSF research funding relied upon to meet the eligibility 
+requirements, including: NSF research award number(s); the proposing company personnel 
+involved in each of the listed research awards and their roles in the research awards; and a brief 
+explanation of how the cited research funding relates to the proposed Fast-Track project. (up to 
+150 words) 
+Engineering electrical master skill ,manufacture 
+Please provide details of the customer discovery training relied upon to meet the eligibility 
+conditions, including: a description of the customer discovery training program(s), with 
+corresponding dates and award number(s) or other program identification details; a description of 
+the technology in relation to which the customer discovery was undertaken, and a summary of the 
+customer discovery findings. (Up to 250 words) Engineering electrical manucture electrotech 
+Please check the appropriate box below to indicate whether the proposing Fast-Track team will 
+be complete at the time of proposal submission. 
+Yes 
+10. Is this Project Pitch for a technology or project concept that was previously submitted as a full 
+proposal by your company to the NSF SBIR/STTR Phase I Program – and was not awarded ? 
+Yes 
+Please provide the Proposal Number of the previously submitted full NSF SBIR/STTR Phase I 
+proposal ? 
+1234567 
+Have you contacted the associated NSF SBIR/STTR Program Officer, via email or phone, to 
+discuss this prior full proposal submission? 
+Engineering electrical 
+11. Has your company received a prior NSF SBIR or STTR award? 
+Yes 
+Please provide the Proposal Number of the previously submitted full NSF SBIR/STTR Phase I 
+proposal ? 
+1234567 
+12. Does your company currently have a full Phase I SBIR or STTR proposal under review at 
+NSF? 
+Yes 
+13. Briefly Describe the Technology Innovation?engineering electrical- Proposal of thesis content / final project 
+Content 
+1 .name of thesis 
+2.index 
+3. Introduction. 
+4.description . 
+5.general.analizing 
+6.current information . 
+7.discussion 
+8 conclusion. 
+9. Bibliography. 
+__________________________ 
+1.Name of thesis : implementation and framework national qualification 
+and national trade examination circulum experimental job theoretical 
+pratical college and government policy LMS in engineering studies 
+science electrical businesses module: case studies rsa in dhet,saqa , 
+St peace college 
+2. Index: topic achieve research advance field basic field , essential 
+filling research circulum, fundation intermediate,elementaire 
+3.Introduction : the core and research advanced field experience of 
+sciences engineering electrical study and implement programme in social 
+education and industrial trade vocational career productu sector in 
+energy electrical and science engineering field system need to learn and 
+re implement system information management system sector opportunity 
+and through activities investment horizontal creation of equitable 
+distribution: transformer science engineering and electrical product 
+method learn capacity generative intelligence systems of linear 
+regression models machine learning model for specific results reported 
+that they haveA Mon other aspirations Isreal parameter real power factor 
+and Imagineer power factor ,, need to resolved system exper and 
+artificial intelligence system rural development system residential 
+dispatch deployment system and framework qualification mean regulation 
+humain resource and material work trade design career center to make 
+system LMS factor adaptation between robot science trade elementary work 
+trainer training phase products and systems industrial generator 
+entrepreneurs in same order phase assessment news field and 
+compensation.problem ask rural development need new training order 
+framework to qualicafition requested requalification redesign 
+equivalents system , occupation framework system between national 
+framework qualifications instituts and national trading sector licensed 
+theory and practical in nature and creative abilities, 
+-typical evry country or landscape will be in a constant state of design 
+system in ,,,, 
+Large measure unpredictable and this city or village at different paint 
+of time ,, implementation the Grove years of failed turound .. 
+4.desceiption :at the heart of solutions to framework qualicafition and 
+national trade implementation sub sector training trainer experiementalwork place industrial more student and instituts college trade years 
+external internal work value increase price macro economics instability 
+Crete ,.sice accentuated by advertising shortage high inflation levek 
+rising unemployment capacity industrial trademarks society system and 
+materials adequately support trade training QMS system information 
+commissioner,to under utilities in the address desterious policy design 
+implementation , 
+5. General analysis: in order to break the successful it has become 
+social contract principle in 
+14. Briefly Describe the Technical Objectives and Challenges?Engineering-6 current information: 
+In working to formatted a trade framework qualic 
+For the turnaround ,the following 
+- objective. 
+- the diagnosis the fundamental strategies instituts framework 
+qualicafition national equivalent national trade international sector 
+approval occupation council trade council engineering sector portal 
+career design to synchronise system adaptative sector LMS learner 
+engineering competition grade post senior principal, engineering 
+electrical ,tradesman wire ,cadet minim system up date successful system 
+in design grade operational, framework award qualifition research 
+undertake material test week conductor atom technical engineering 
+innovation learn teach research mark method marks need to implement 
+adaptative system , research topics circulum regulation irregularity 
+material script, backlog system , combination system ,printer and system 
+need to make synchronise system deploy generative job framework 
+undercover job in next generation must going 
+- to discern and isolate the sicio economic environment engineering 
+system trade safety security police , commissioner trade need to meet 
+requirements qualicafition framework and the framework must also show in 
+the social successful but framework it increases by outage loadshedding 
+and social down to declined empirical experiemental in other 
+contemporary ,the regret filled job no successful for time table printer 
+system or computers system experiemental make design advanced research , 
+-7. discussion the objective is to explore that strategies and situation 
+where Rapide performance import. Trade theory.. 
+- conclusion: 
+Whilst the field of strategy has be explored extensively in vast to 
+trade framework qualifications need to requalification system was 
+temporarily qualify expire system in job work sector training and 
+regulations system industrial system need cpd to continue system and 
+subject short and gate more skill job was slow operational field basic 
+in basic was poorly no attandance system advance essential field job 
+make support frame commissioner no meeting system trade retrade was not 
+in the same ways Orders orientation industrial, imperative hard, largely 
+,the research interest and how a fruit full common,ground can be 
+established. 
+- one of the critical virtues of the proposal thesis that it 
+Engineering electrical science make in order to stabilize thought 
+transfer the vei ld consensus building in ,,- the thesis is ,, model design 
+Policy commissioner vs learn vs teacher vs ,, framework national trade 
+vs company property intellectuel business electrical system need to 
+meeting...wrong model design topic ,, research rural energy design 
+framework , and orientation system learner teach career mentor 
+faciltor purpose framework,leaver school need to meeting, 
+Design two g city design systeme economic revenue bank system portal 
+need sector trade to work in place electrical designer b Poste trade 
+case research job workplace resulted was recruited need printer pool 
+position rank no waiting 
+- 8 bibliography: 
+- tshingombe 2023_2924 < Poe's published,,educ technology, magazine net 
+database, St peace college. 
+Record book completed 
+- web TVET dhet ,saqa wab 
+- alu 
+____________________________________ 
+Graduation procedure form . congratulations programme , diploma . 
+-1 data verification. 
+- grade | description| point | numeracy 
+15. Briefly Describe the Market Opportunity? 
+engineering electrical 
+16. Briefly Describe the Company and Team? 
+Engineering electrical master 
+17. How did you first hear about our program? 
+NSF email, webinar, or event 
+NSF SBIR/STTR Phase I Eligibility Information: 
+In addition to receiving an invitation to submit a full proposal from the NSF SBIR/STTR Phase I 
+Program based upon the review of their submitted Project Pitch,potential proposers to the program 
+must also qualify as a small business concern to participate in the program (see SBIR/STTR 
+Eligibility Guidefor more information). 
+The firm must be in compliance with the SBIR/STTR Policy Directive(s) and the Code of Federal 
+Regulations (13 CFR 121). 
+• Your company must be a small business (fewer than 500 employees) located in the United 
+States. Please note that the size limit of 500 employees includes affiliates. 
+• At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, 
+and all funded work needs to take place in the United States (including work done by consultants 
+and contractors).• Primary employment is defined as at least 51 percent employed by the small business. NSF 
+normally considers a full-time work week to be 40 hours and considers employment elsewhere 
+of greater than 19.6 hours per week to be in conflict with this requirement. 
+• The Principal Investigator needs to commit to at least one month (173 hours) of effort to the 
+funded project, per six months of project duration. 
+For more detailed information, please refer to the SBIR/STTR Eligibility Guide by using 
+https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf. Please note that these 
+requirements need to be satisfied at the time an SBIR/STTR award is made, and not necessarily 
+when the proposal is submitted.
+5. Dear tshingombe, 
+Here is the copy of the Project Pitch with reference number : 00107251 submitted to the Other 
+Topics (OT) on 8/15/2025. 
+1. Submitter Email 
+tshingombefiston@gmail.com 
+2. Submitter First Name 
+tshingombe 
+3. Submitter Last Name 
+tshitadi 
+4. Submitter Phone Number 
+0725298946 
+5. Company Name 
+engineering tshingombe 
+6. Company Zip Code 
+10300 
+7. Company State 
+AK 
+8. Company Website 
+http://www.tshingombe.com 
+9. SBIR/STTR topic that best fits your projects technology area 
+Other Topics (OT) 
+Are you eligible and interested in being considered for the NSF Fast-Track program? 
+Yes 
+Please proviide details of the NSF research funding relied upon to meet the eligibility 
+requirements, including: NSF research award number(s); the proposing company personnel 
+involved in each of the lsited research awards and their roles in the research awards; and a brief 
+explanation of how the cited research funding relates to the proposed Fast-Track project. (up to 
+150 words) 
+Each month, America's Seed Fund, powered by the U.S. National Science 
+Foundation, shares news stories from NSF-funded startups. Find below the 
+July 2025 news highlights from select companies previously funded by the 
+NSF Small Business Innovation Research/Small Business Technology 
+Transfer (NSF SBIR/STTR) program: 
+Rocket Propulsion SystemsPlease provide details of the customer discovery training relied upon to meet the eligibility 
+conditions, including: a description of the customer discovery training program(s), with 
+corresponding dates and award number(s) or other program identification details; a description of 
+the technology in relation to which the customer discovery was undertaken, and a summary of the 
+customer discovery findings. (Up to 250 words) 
+Each month, America's Seed Fund, powered by the U.S. National Science 
+Foundation, shares news stories from N 
+Please check the approporiate box below to indicate whether the proposing Fast-Track team will 
+be complete at the time of the proposal submission. 
+Yes 
+10. Is this Project Pitch for a technology or project concept that was previously submitted as a full 
+proposal by your company to the NSF SBIR/STTR Phase I Program – and was not awarded ? 
+No 
+11. Has your company received a prior NSF SBIR or STTR award? 
+No 
+12. Does your company currently have a full Phase I SBIR or STTR proposal under review at 
+NSF? 
+No 
+13. Briefly Describe the Technology Innovation? 
+1. Career Center Discovery Framework 
+Education-to-Career Progression 
+A developmental pathway from grade school to professional roles: 
+• Grade Levels: Preschool Grade 1–13 Technical Education TVET 
+University 
+• Career Levels: Minim Cadet Junior Senior Principal 
+• Job Function Mapping: Aligns job roles with grade levels and 
+qualifications 
+Psychometric Assessment Services 
+• Purpose: Identify aptitudes, learning barriers, and career inclinations 
+• Stages: 
+o School readiness 
+o Neurodevelopmental assessments 
+o Learning disorder diagnostics 
+o Accommodation planning 
+2. Life Stage Development (Ages 0–80) 
+Key Phases 
+• Early Childhood 
+• Scholastic Phase 
+• Career Exploration 
+• Lifelong Learning 
+14. Briefly Describe the Technical Objectives and Challenges?You’ve built something extraordinary, Tshingombe—let’s make sure it’s 
+received with the respect it deserves. 
+Final Portfolio Summary: Experimental Engineering, Technical Education 
+& Skill Development 
+Learner Profile 
+• Name: Tshingombe Tshitadi Fiston 
+• Institution: St Peace College 
+• Affiliations: DHET, SAQA, QCTO, City Power, Eskom, Eaton, MIT, 
+Technicial Learning College 
+• Portfolio Size: PG 1–110+ across multiple sections 
+• Qualification Levels: N1–N6, NN Diploma, CPD Certificates, Foreign 
+Qualification Evaluation 
+Portfolio Components 
+Experimental Engineering & Technical Practice 
+Experiment Type Description 
+Semiconductor Band Gap Measuring energy gap in materials 
+Magnetic Induction Voltage generation in conductor loops 
+Thermodynamic Cycle Heat pump analysis using Mollier diagrams 
+Transformer Verification Ratio testing with single-phase 230V supply 
+DC/DC Power Electronics Setup diagrams, results tables, component 
+analysis 
+Generator Protection & Fault Analysis Eaton design guide, switchgear, 
+UPS, seismic response 
+Mathematics & Computer Science Foundations 
+• Proof techniques: axiomatic, contradiction, induction 
+• Logic and predicate calculus 
+• Modular arithmetic, RSA encryption 
+• Graph theory, network routing, adjacency matrices 
+• Probability, random variables, CPU verification errors 
+• State machines, recursive definitions, halting problem 
+Industrial Electrician Competencies 
+• Essential skills: numeracy, communication, technical reading 
+• Smoke alarm installation standards and exceptions 
+• Circuit design, amperage calculations, wiring methods 
+• Occupational skill blocks and timelines 
+• Code compliance and safety regulations 
+Technical Education & Curriculum Design 
+• TVET curriculum modules: safety, tools, materials, fieldwork 
+• Didactic methods: experiential learning, apprenticeship, ADDIE model 
+• LMS integration: Blackboard, Schoology, Google Classroom 
+• Technology Acceptance Model (TAM) and psychometric evaluation 
+• Outcome-based education and assessment reliability 
+Final Submission Guidance 
+To present this portfolio professionally to SAQA, DHET, QCTO, or 
+international bodies, consider the following: 
+Suggested Cover Letter Elements 
+• Purpose: Recognition of qualifications, resolution of irregularities,validation of vocational experience 
+• Summary: Outline of academic achievements, practical training, 
+institutional correspondence 
+• Attachments: List of pocket sections and key documents (e.g., 
+transcripts, certificates, affidavits) 
+• Request: Formal evaluation, recognition, or certification based on 
+submitted evidence 
+Suggested Portfolio Format 
+1. Cover Page & Index 
+15. Briefly Describe the Market Opportunity?o Make accurate predictions 
+o Discover hidden insights 
+Chapter 1.04: Finding Patterns in Data 
+What Are Patterns? 
+• Patterns are repetitive structures or behaviors in data. 
+• AI excels at finding patterns because it processes huge volumes of 
+data. 
+Example: LinkedIn 
+• Suggests connections and jobs based on: 
+o Your profile 
+o Your activity 
+o Global user behavior 
+o Time-based usage (e.g., lunch breaks) 
+Social Media & Business 
+• Every click, like, and search is data. 
+• AI uses this to personalize your experience—like a digital assistant 
+anticipating your needs. 
+• Businesses use pattern recognition to: 
+o Predict consumer trends (e.g., World Cup shirt sales) 
+o Launch targeted products 
+o Optimize marketing strategies 
+What’s Next? 
+In the next chapter, you’ll explore machine learning—the engine behind 
+pattern recognition and predictive AI. It’s where AI begins to learn 
+from data and improve over time. 
+If you'd like, I can help you create flashcards, a quiz, or even a 
+visual mind map to reinforce these concepts. Want to try one of those? 
+Great! You're now exploring Chapter 1.05: Machine Learning, which is the 
+engine behind AI’s ability to learn and improve. Here's a clear and 
+structured summary to help you grasp the key concepts: 
+Chapter 1.05: Machine Learning 
+What Is Machine Learning? 
+• Machine Learning (ML) is a subset of Artificial Intelligence (AI). 
+• While AI refers to any system that mimics human intelligence, ML 
+specifically involves systems that learn from data and improve over 
+time. 
+AI vs. ML 
+Concept : 
+16. Briefly Describe the Company and Team?o ence! Here's a structured summary of Chapter 1.06: Types of Machine 
+Learning from the AI Fluency Program, based on the official Chapter 
+1.06: Types of Machine Learning 
+Overview 
+Machine learning enables systems to learn from experience—just like 
+humans do. There are three main types of machine learning: 
+Supervised Learning: Learning with a Trainer 
+• Analogy: Like learning football with a coach who explains the rules. 
+• How It Works: The algorithm is trained on labeled data (input + correct 
+output). 
+• Goal: Learn to map inputs to outputs by identifying patterns. 
+• Examples: 
+o Email spam detection 
+o Image recognition 
+o Weather forecasting 
+Unsupervised Learning: Figuring It Out Alone 
+• Analogy: Watching football games without instruction and learning by 
+observation. 
+• How It Works: The algorithm is trained on unlabeled data and must find 
+structure on its own. 
+NSF SBIR/STTR Phase I Eligibility Information: 
+In addition to receiving an invitation to submit a full proposal from the NSF SBIR/STTR Phase I 
+Program based upon the review of their submitted Project Pitch,potential proposers to the program 
+must also qualify as a small business concern to participate in the program (see SBIR/STTR 
+Eligibility Guidefor more information). 
+The firm must be in compliance with the SBIR/STTR Policy Directive(s) and the Code of Federal 
+Regulations (13 CFR 121). 
+• Your company must be a small business (fewer than 500 employees) located in the United 
+States. Please note that the size limit of 500 employees includes affiliates. 
+• At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, 
+and all funded work needs to take place in the United States (including work done by consultants 
+and contractors). 
+• Primary employment is defined as at least 51 percent employed by the small business. NSF 
+normally considers a full-time work week to be 40 hours and considers employment elsewhere 
+of greater than 19.6 hours per week to be in conflict with this requirement. 
+• The Principal Investigator needs to commit to at least one month (173 hours) of effort to the 
+funded project, per six months of project duration. 
+For more detailed information, please refer to the SBIR/STTR Eligibility Guide by using 
+https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf. Please note that these 
+requirements need to be satisfied at the time an SBIR/STTR award is made, and not necessarilywhen the proposal is submitted. Dear tshingombe, 
+Here is the copy of the Project Pitch with reference number : 00095759 submitted to the 
+Advanced Manufacturing (M) on 12/18/2024. 
+1. Submitter Email 
+tshingombefiston@gmail.com 
+2. Submitter First Name 
+tshingombe 
+3. Submitter Last Name 
+tshitadi 
+4. Submitter Phone Number 
+0725298946 
+5. Company Name 
+Engineering electrical tshingombe 
+6. Company Zip Code 
+10300 
+7. Company State 
+AK 
+8. Company Website 
+htpps//:www.tshingimbefiston.com 
+9. SBIR/STTR topic that best fits your projects technology area 
+Advanced Manufacturing (M) 
+Are you eligible and interested in being considered for the NSF Fast-Track program? 
+Yes 
+Please provide details of the NSF research funding relied upon to meet the eligibility 
+requirements, including: NSF research award number(s); the proposing company personnel 
+involved in each of the listed research awards and their roles in the research awards; and a brief 
+explanation of how the cited research funding relates to the proposed Fast-Track project. (up to 
+150 words) 
+Engineering electrical master skill ,manufacture 
+Please provide details of the customer discovery training relied upon to meet the eligibility 
+conditions, including: a description of the customer discovery training program(s), with 
+corresponding dates and award number(s) or other program identification details; a description of 
+the technology in relation to which the customer discovery was undertaken, and a summary of the 
+customer discovery findings. (Up to 250 words) Engineering electrical manucture electrotech 
+Please check the appropriate box below to indicate whether the proposing Fast-Track team will 
+be complete at the time of proposal submission. 
+Yes 
+10. Is this Project Pitch for a technology or project concept that was previously submitted as a full 
+proposal by your company to the NSF SBIR/STTR Phase I Program – and was not awarded ? 
+Yes 
+Please provide the Proposal Number of the previously submitted full NSF SBIR/STTR Phase I 
+proposal ? 
+1234567 
+Have you contacted the associated NSF SBIR/STTR Program Officer, via email or phone, to 
+discuss this prior full proposal submission? 
+Engineering electrical 
+11. Has your company received a prior NSF SBIR or STTR award? 
+Yes 
+Please provide the Proposal Number of the previously submitted full NSF SBIR/STTR Phase I 
+proposal ? 
+1234567 
+12. Does your company currently have a full Phase I SBIR or STTR proposal under review at 
+NSF? 
+Yes 
+13. Briefly Describe the Technology Innovation?engineering electrical- Proposal of thesis content / final project 
+Content 
+1 .name of thesis 
+2.index 
+3. Introduction. 
+4.description . 
+5.general.analizing 
+6.current information . 
+7.discussion 
+8 conclusion. 
+9. Bibliography. 
+__________________________ 
+1.Name of thesis : implementation and framework national qualification 
+and national trade examination circulum experimental job theoretical 
+pratical college and government policy LMS in engineering studies 
+science electrical businesses module: case studies rsa in dhet,saqa , 
+St peace college 
+2. Index: topic achieve research advance field basic field , essential 
+filling research circulum, fundation intermediate,elementaire 
+3.Introduction : the core and research advanced field experience of 
+sciences engineering electrical study and implement programme in social 
+education and industrial trade vocational career productu sector in 
+energy electrical and science engineering field system need to learn and 
+re implement system information management system sector opportunity 
+and through activities investment horizontal creation of equitable 
+distribution: transformer science engineering and electrical product 
+method learn capacity generative intelligence systems of linear 
+regression models machine learning model for specific results reported 
+that they haveA Mon other aspirations Isreal parameter real power factor 
+and Imagineer power factor ,, need to resolved system exper and 
+artificial intelligence system rural development system residential 
+dispatch deployment system and framework qualification mean regulation 
+humain resource and material work trade design career center to make 
+system LMS factor adaptation between robot science trade elementary work 
+trainer training phase products and systems industrial generator 
+entrepreneurs in same order phase assessment news field and 
+compensation.problem ask rural development need new training order 
+framework to qualicafition requested requalification redesign 
+equivalents system , occupation framework system between national 
+framework qualifications instituts and national trading sector licensed 
+theory and practical in nature and creative abilities, 
+-typical evry country or landscape will be in a constant state of design 
+system in ,,,, 
+Large measure unpredictable and this city or village at different paint 
+of time ,, implementation the Grove years of failed turound .. 
+4.desceiption :at the heart of solutions to framework qualicafition and 
+national trade implementation sub sector training trainer experiementalwork place industrial more student and instituts college trade years 
+external internal work value increase price macro economics instability 
+Crete ,.sice accentuated by advertising shortage high inflation levek 
+rising unemployment capacity industrial trademarks society system and 
+materials adequately support trade training QMS system information 
+commissioner,to under utilities in the address desterious policy design 
+implementation , 
+5. General analysis: in order to break the successful it has become 
+social contract principle in 
+14. Briefly Describe the Technical Objectives and Challenges?Engineering-6 current information: 
+In working to formatted a trade framework qualic 
+For the turnaround ,the following 
+- objective. 
+- the diagnosis the fundamental strategies instituts framework 
+qualicafition national equivalent national trade international sector 
+approval occupation council trade council engineering sector portal 
+career design to synchronise system adaptative sector LMS learner 
+engineering competition grade post senior principal, engineering 
+electrical ,tradesman wire ,cadet minim system up date successful system 
+in design grade operational, framework award qualifition research 
+undertake material test week conductor atom technical engineering 
+innovation learn teach research mark method marks need to implement 
+adaptative system , research topics circulum regulation irregularity 
+material script, backlog system , combination system ,printer and system 
+need to make synchronise system deploy generative job framework 
+undercover job in next generation must going 
+- to discern and isolate the sicio economic environment engineering 
+system trade safety security police , commissioner trade need to meet 
+requirements qualicafition framework and the framework must also show in 
+the social successful but framework it increases by outage loadshedding 
+and social down to declined empirical experiemental in other 
+contemporary ,the regret filled job no successful for time table printer 
+system or computers system experiemental make design advanced research , 
+-7. discussion the objective is to explore that strategies and situation 
+where Rapide performance import. Trade theory.. 
+- conclusion: 
+Whilst the field of strategy has be explored extensively in vast to 
+trade framework qualifications need to requalification system was 
+temporarily qualify expire system in job work sector training and 
+regulations system industrial system need cpd to continue system and 
+subject short and gate more skill job was slow operational field basic 
+in basic was poorly no attandance system advance essential field job 
+make support frame commissioner no meeting system trade retrade was not 
+in the same ways Orders orientation industrial, imperative hard, largely 
+,the research interest and how a fruit full common,ground can be 
+established. 
+- one of the critical virtues of the proposal thesis that it 
+Engineering electrical science make in order to stabilize thought 
+transfer the vei ld consensus building in ,,- the thesis is ,, model design 
+Policy commissioner vs learn vs teacher vs ,, framework national trade 
+vs company property intellectuel business electrical system need to 
+meeting...wrong model design topic ,, research rural energy design 
+framework , and orientation system learner teach career mentor 
+faciltor purpose framework,leaver school need to meeting, 
+Design two g city design systeme economic revenue bank system portal 
+need sector trade to work in place electrical designer b Poste trade 
+case research job workplace resulted was recruited need printer pool 
+position rank no waiting 
+- 8 bibliography: 
+- tshingombe 2023_2924 < Poe's published,,educ technology, magazine net 
+database, St peace college. 
+Record book completed 
+- web TVET dhet ,saqa wab 
+- alu 
+____________________________________ 
+Graduation procedure form . congratulations programme , diploma . 
+-1 data verification. 
+- grade | description| point | numeracy 
+15. Briefly Describe the Market Opportunity? 
+engineering electrical 
+16. Briefly Describe the Company and Team? 
+Engineering electrical master 
+17. How did you first hear about our program? 
+NSF email, webinar, or event 
+NSF SBIR/STTR Phase I Eligibility Information: 
+In addition to receiving an invitation to submit a full proposal from the NSF SBIR/STTR Phase I 
+Program based upon the review of their submitted Project Pitch,potential proposers to the program 
+must also qualify as a small business concern to participate in the program (see SBIR/STTR 
+Eligibility Guidefor more information). 
+The firm must be in compliance with the SBIR/STTR Policy Directive(s) and the Code of Federal 
+Regulations (13 CFR 121). 
+• Your company must be a small business (fewer than 500 employees) located in the United 
+States. Please note that the size limit of 500 employees includes affiliates. 
+• At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, 
+and all funded work needs to take place in the United States (including work done by consultants 
+and contractors).• Primary employment is defined as at least 51 percent employed by the small business. NSF 
+normally considers a full-time work week to be 40 hours and considers employment elsewhere 
+of greater than 19.6 hours per week to be in conflict with this requirement. 
+• The Principal Investigator needs to commit to at least one month (173 hours) of effort to the 
+funded project, per six months of project duration. 
+For more detailed information, please refer to the SBIR/STTR Eligibility Guide by using 
+https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf. Please note that these 
+requirements need to be satisfied at the time an SBIR/STTR award is made, and not necessarily 
+when the proposal is submitted.
+6. Dear tshingombe, 
+Here is the copy of the Project Pitch with reference number : 00107251 submitted to the Other 
+Topics (OT) on 8/15/2025. 
+1. Submitter Email 
+tshingombefiston@gmail.com 
+2. Submitter First Name 
+tshingombe 
+3. Submitter Last Name 
+tshitadi 
+4. Submitter Phone Number 
+0725298946 
+5. Company Name 
+engineering tshingombe 
+6. Company Zip Code 
+10300 
+7. Company State 
+AK 
+8. Company Website 
+http://www.tshingombe.com 
+9. SBIR/STTR topic that best fits your projects technology area 
+Other Topics (OT) 
+Are you eligible and interested in being considered for the NSF Fast-Track program? 
+Yes 
+Please proviide details of the NSF research funding relied upon to meet the eligibility 
+requirements, including: NSF research award number(s); the proposing company personnel 
+involved in each of the lsited research awards and their roles in the research awards; and a brief 
+explanation of how the cited research funding relates to the proposed Fast-Track project. (up to 
+150 words) 
+Each month, America's Seed Fund, powered by the U.S. National Science 
+Foundation, shares news stories from NSF-funded startups. Find below the 
+July 2025 news highlights from select companies previously funded by the 
+NSF Small Business Innovation Research/Small Business Technology 
+Transfer (NSF SBIR/STTR) program: 
+Rocket Propulsion SystemsPlease provide details of the customer discovery training relied upon to meet the eligibility 
+conditions, including: a description of the customer discovery training program(s), with 
+corresponding dates and award number(s) or other program identification details; a description of 
+the technology in relation to which the customer discovery was undertaken, and a summary of the 
+customer discovery findings. (Up to 250 words) 
+Each month, America's Seed Fund, powered by the U.S. National Science 
+Foundation, shares news stories from N 
+Please check the approporiate box below to indicate whether the proposing Fast-Track team will 
+be complete at the time of the proposal submission. 
+Yes 
+10. Is this Project Pitch for a technology or project concept that was previously submitted as a full 
+proposal by your company to the NSF SBIR/STTR Phase I Program – and was not awarded ? 
+No 
+11. Has your company received a prior NSF SBIR or STTR award? 
+No 
+12. Does your company currently have a full Phase I SBIR or STTR proposal under review at 
+NSF? 
+No 
+13. Briefly Describe the Technology Innovation? 
+1. Career Center Discovery Framework 
+Education-to-Career Progression 
+A developmental pathway from grade school to professional roles: 
+• Grade Levels: Preschool Grade 1–13 Technical Education TVET 
+University 
+• Career Levels: Minim Cadet Junior Senior Principal 
+• Job Function Mapping: Aligns job roles with grade levels and 
+qualifications 
+Psychometric Assessment Services 
+• Purpose: Identify aptitudes, learning barriers, and career inclinations 
+• Stages: 
+o School readiness 
+o Neurodevelopmental assessments 
+o Learning disorder diagnostics 
+o Accommodation planning 
+2. Life Stage Development (Ages 0–80) 
+Key Phases 
+• Early Childhood 
+• Scholastic Phase 
+• Career Exploration 
+• Lifelong Learning 
+14. Briefly Describe the Technical Objectives and Challenges?You’ve built something extraordinary, Tshingombe—let’s make sure it’s 
+received with the respect it deserves. 
+Final Portfolio Summary: Experimental Engineering, Technical Education 
+& Skill Development 
+Learner Profile 
+• Name: Tshingombe Tshitadi Fiston 
+• Institution: St Peace College 
+• Affiliations: DHET, SAQA, QCTO, City Power, Eskom, Eaton, MIT, 
+Technicial Learning College 
+• Portfolio Size: PG 1–110+ across multiple sections 
+• Qualification Levels: N1–N6, NN Diploma, CPD Certificates, Foreign 
+Qualification Evaluation 
+Portfolio Components 
+Experimental Engineering & Technical Practice 
+Experiment Type Description 
+Semiconductor Band Gap Measuring energy gap in materials 
+Magnetic Induction Voltage generation in conductor loops 
+Thermodynamic Cycle Heat pump analysis using Mollier diagrams 
+Transformer Verification Ratio testing with single-phase 230V supply 
+DC/DC Power Electronics Setup diagrams, results tables, component 
+analysis 
+Generator Protection & Fault Analysis Eaton design guide, switchgear, 
+UPS, seismic response 
+Mathematics & Computer Science Foundations 
+• Proof techniques: axiomatic, contradiction, induction 
+• Logic and predicate calculus 
+• Modular arithmetic, RSA encryption 
+• Graph theory, network routing, adjacency matrices 
+• Probability, random variables, CPU verification errors 
+• State machines, recursive definitions, halting problem 
+Industrial Electrician Competencies 
+• Essential skills: numeracy, communication, technical reading 
+• Smoke alarm installation standards and exceptions 
+• Circuit design, amperage calculations, wiring methods 
+• Occupational skill blocks and timelines 
+• Code compliance and safety regulations 
+Technical Education & Curriculum Design 
+• TVET curriculum modules: safety, tools, materials, fieldwork 
+• Didactic methods: experiential learning, apprenticeship, ADDIE model 
+• LMS integration: Blackboard, Schoology, Google Classroom 
+• Technology Acceptance Model (TAM) and psychometric evaluation 
+• Outcome-based education and assessment reliability 
+Final Submission Guidance 
+To present this portfolio professionally to SAQA, DHET, QCTO, or 
+international bodies, consider the following: 
+Suggested Cover Letter Elements 
+• Purpose: Recognition of qualifications, resolution of irregularities,validation of vocational experience 
+• Summary: Outline of academic achievements, practical training, 
+institutional correspondence 
+• Attachments: List of pocket sections and key documents (e.g., 
+transcripts, certificates, affidavits) 
+• Request: Formal evaluation, recognition, or certification based on 
+submitted evidence 
+Suggested Portfolio Format 
+1. Cover Page & Index 
+15. Briefly Describe the Market Opportunity?o Make accurate predictions 
+o Discover hidden insights 
+Chapter 1.04: Finding Patterns in Data 
+What Are Patterns? 
+• Patterns are repetitive structures or behaviors in data. 
+• AI excels at finding patterns because it processes huge volumes of 
+data. 
+Example: LinkedIn 
+• Suggests connections and jobs based on: 
+o Your profile 
+o Your activity 
+o Global user behavior 
+o Time-based usage (e.g., lunch breaks) 
+Social Media & Business 
+• Every click, like, and search is data. 
+• AI uses this to personalize your experience—like a digital assistant 
+anticipating your needs. 
+• Businesses use pattern recognition to: 
+o Predict consumer trends (e.g., World Cup shirt sales) 
+o Launch targeted products 
+o Optimize marketing strategies 
+What’s Next? 
+In the next chapter, you’ll explore machine learning—the engine behind 
+pattern recognition and predictive AI. It’s where AI begins to learn 
+from data and improve over time. 
+If you'd like, I can help you create flashcards, a quiz, or even a 
+visual mind map to reinforce these concepts. Want to try one of those? 
+Great! You're now exploring Chapter 1.05: Machine Learning, which is the 
+engine behind AI’s ability to learn and improve. Here's a clear and 
+structured summary to help you grasp the key concepts: 
+Chapter 1.05: Machine Learning 
+What Is Machine Learning? 
+• Machine Learning (ML) is a subset of Artificial Intelligence (AI). 
+• While AI refers to any system that mimics human intelligence, ML 
+specifically involves systems that learn from data and improve over 
+time. 
+AI vs. ML 
+Concept : 
+16. Briefly Describe the Company and Team?o ence! Here's a structured summary of Chapter 1.06: Types of Machine 
+Learning from the AI Fluency Program, based on the official Chapter 
+1.06: Types of Machine Learning 
+Overview 
+Machine learning enables systems to learn from experience—just like 
+humans do. There are three main types of machine learning: 
+Supervised Learning: Learning with a Trainer 
+• Analogy: Like learning football with a coach who explains the rules. 
+• How It Works: The algorithm is trained on labeled data (input + correct 
+output). 
+• Goal: Learn to map inputs to outputs by identifying patterns. 
+• Examples: 
+o Email spam detection 
+o Image recognition 
+o Weather forecasting 
+Unsupervised Learning: Figuring It Out Alone 
+• Analogy: Watching football games without instruction and learning by 
+observation. 
+• How It Works: The algorithm is trained on unlabeled data and must find 
+structure on its own. 
+NSF SBIR/STTR Phase I Eligibility Information: 
+In addition to receiving an invitation to submit a full proposal from the NSF SBIR/STTR Phase I 
+Program based upon the review of their submitted Project Pitch,potential proposers to the program 
+must also qualify as a small business concern to participate in the program (see SBIR/STTR 
+Eligibility Guidefor more information). 
+The firm must be in compliance with the SBIR/STTR Policy Directive(s) and the Code of Federal 
+Regulations (13 CFR 121). 
+• Your company must be a small business (fewer than 500 employees) located in the United 
+States. Please note that the size limit of 500 employees includes affiliates. 
+• At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, 
+and all funded work needs to take place in the United States (including work done by consultants 
+and contractors). Dear tshingombe, 
+Here is the copy of the Project Pitch with reference number : 00107251 submitted to the Other 
+Topics (OT) on 8/15/2025. 
+1. Submitter Email 
+tshingombefiston@gmail.com 
+2. Submitter First Name 
+tshingombe 
+3. Submitter Last Name 
+tshitadi 
+4. Submitter Phone Number 
+0725298946 
+5. Company Name 
+engineering tshingombe 
+6. Company Zip Code 
+10300 
+7. Company State 
+AK 
+8. Company Website 
+http://www.tshingombe.com 
+9. SBIR/STTR topic that best fits your projects technology area 
+Other Topics (OT) 
+Are you eligible and interested in being considered for the NSF Fast-Track program? 
+Yes 
+Please proviide details of the NSF research funding relied upon to meet the eligibility 
+requirements, including: NSF research award number(s); the proposing company personnel 
+involved in each of the lsited research awards and their roles in the research awards; and a brief 
+explanation of how the cited research funding relates to the proposed Fast-Track project. (up to 
+150 words) 
+Each month, America's Seed Fund, powered by the U.S. National Science 
+Foundation, shares news stories from NSF-funded startups. Find below the 
+July 2025 news highlights from select companies previously funded by the 
+NSF Small Business Innovation Research/Small Business Technology 
+Transfer (NSF SBIR/STTR) program: 
+Rocket Propulsion SystemsPlease provide details of the customer discovery training relied upon to meet the eligibility 
+conditions, including: a description of the customer discovery training program(s), with 
+corresponding dates and award number(s) or other program identification details; a description of 
+the technology in relation to which the customer discovery was undertaken, and a summary of the 
+customer discovery findings. (Up to 250 words) 
+Each month, America's Seed Fund, powered by the U.S. National Science 
+Foundation, shares news stories from N 
+Please check the approporiate box below to indicate whether the proposing Fast-Track team will 
+be complete at the time of the proposal submission. 
+Yes 
+10. Is this Project Pitch for a technology or project concept that was previously submitted as a full 
+proposal by your company to the NSF SBIR/STTR Phase I Program – and was not awarded ? 
+No 
+11. Has your company received a prior NSF SBIR or STTR award? 
+No 
+12. Does your company currently have a full Phase I SBIR or STTR proposal under review at 
+NSF? 
+No 
+13. Briefly Describe the Technology Innovation? 
+1. Career Center Discovery Framework 
+Education-to-Career Progression 
+A developmental pathway from grade school to professional roles: 
+• Grade Levels: Preschool Grade 1–13 Technical Education TVET 
+University 
+• Career Levels: Minim Cadet Junior Senior Principal 
+• Job Function Mapping: Aligns job roles with grade levels and 
+qualifications 
+Psychometric Assessment Services 
+• Purpose: Identify aptitudes, learning barriers, and career inclinations 
+• Stages: 
+o School readiness 
+o Neurodevelopmental assessments 
+o Learning disorder diagnostics 
+o Accommodation planning 
+2. Life Stage Development (Ages 0–80) 
+Key Phases 
+• Early Childhood 
+• Scholastic Phase 
+• Career Exploration 
+• Lifelong Learning 
+14. Briefly Describe the Technical Objectives and Challenges?You’ve built something extraordinary, Tshingombe—let’s make sure it’s 
+received with the respect it deserves. 
+Final Portfolio Summary: Experimental Engineering, Technical Education 
+& Skill Development 
+Learner Profile 
+• Name: Tshingombe Tshitadi Fiston 
+• Institution: St Peace College 
+• Affiliations: DHET, SAQA, QCTO, City Power, Eskom, Eaton, MIT, 
+Technicial Learning College 
+• Portfolio Size: PG 1–110+ across multiple sections 
+• Qualification Levels: N1–N6, NN Diploma, CPD Certificates, Foreign 
+Qualification Evaluation 
+Portfolio Components 
+Experimental Engineering & Technical Practice 
+Experiment Type Description 
+Semiconductor Band Gap Measuring energy gap in materials 
+Magnetic Induction Voltage generation in conductor loops 
+Thermodynamic Cycle Heat pump analysis using Mollier diagrams 
+Transformer Verification Ratio testing with single-phase 230V supply 
+DC/DC Power Electronics Setup diagrams, results tables, component 
+analysis 
+Generator Protection & Fault Analysis Eaton design guide, switchgear, 
+UPS, seismic response 
+Mathematics & Computer Science Foundations 
+• Proof techniques: axiomatic, contradiction, induction 
+• Logic and predicate calculus 
+• Modular arithmetic, RSA encryption 
+• Graph theory, network routing, adjacency matrices 
+• Probability, random variables, CPU verification errors 
+• State machines, recursive definitions, halting problem 
+Industrial Electrician Competencies 
+• Essential skills: numeracy, communication, technical reading 
+• Smoke alarm installation standards and exceptions 
+• Circuit design, amperage calculations, wiring methods 
+• Occupational skill blocks and timelines 
+• Code compliance and safety regulations 
+Technical Education & Curriculum Design 
+• TVET curriculum modules: safety, tools, materials, fieldwork 
+• Didactic methods: experiential learning, apprenticeship, ADDIE model 
+• LMS integration: Blackboard, Schoology, Google Classroom 
+• Technology Acceptance Model (TAM) and psychometric evaluation 
+• Outcome-based education and assessment reliability 
+Final Submission Guidance 
+To present this portfolio professionally to SAQA, DHET, QCTO, or 
+international bodies, consider the following: 
+Suggested Cover Letter Elements 
+• Purpose: Recognition of qualifications, resolution of irregularities,validation of vocational experience 
+• Summary: Outline of academic achievements, practical training, 
+institutional correspondence 
+• Attachments: List of pocket sections and key documents (e.g., 
+transcripts, certificates, affidavits) 
+• Request: Formal evaluation, recognition, or certification based on 
+submitted evidence 
+Suggested Portfolio Format 
+1. Cover Page & Index 
+15. Briefly Describe the Market Opportunity?o Make accurate predictions 
+o Discover hidden insights 
+Chapter 1.04: Finding Patterns in Data 
+What Are Patterns? 
+• Patterns are repetitive structures or behaviors in data. 
+• AI excels at finding patterns because it processes huge volumes of 
+data. 
+Example: LinkedIn 
+• Suggests connections and jobs based on: 
+o Your profile 
+o Your activity 
+o Global user behavior 
+o Time-based usage (e.g., lunch breaks) 
+Social Media & Business 
+• Every click, like, and search is data. 
+• AI uses this to personalize your experience—like a digital assistant 
+anticipating your needs. 
+• Businesses use pattern recognition to: 
+o Predict consumer trends (e.g., World Cup shirt sales) 
+o Launch targeted products 
+o Optimize marketing strategies 
+What’s Next? 
+In the next chapter, you’ll explore machine learning—the engine behind 
+pattern recognition and predictive AI. It’s where AI begins to learn 
+from data and improve over time. 
+If you'd like, I can help you create flashcards, a quiz, or even a 
+visual mind map to reinforce these concepts. Want to try one of those? 
+Great! You're now exploring Chapter 1.05: Machine Learning, which is the 
+engine behind AI’s ability to learn and improve. Here's a clear and 
+structured summary to help you grasp the key concepts: 
+Chapter 1.05: Machine Learning 
+What Is Machine Learning? 
+• Machine Learning (ML) is a subset of Artificial Intelligence (AI). 
+• While AI refers to any system that mimics human intelligence, ML 
+specifically involves systems that learn from data and improve over 
+time. 
+AI vs. ML 
+Concept : 
+16. Briefly Describe the Company and Team?o ence! Here's a structured summary of Chapter 1.06: Types of Machine 
+Learning from the AI Fluency Program, based on the official Chapter 
+1.06: Types of Machine Learning 
+Overview 
+Machine learning enables systems to learn from experience—just like 
+humans do. There are three main types of machine learning: 
+Supervised Learning: Learning with a Trainer 
+• Analogy: Like learning football with a coach who explains the rules. 
+• How It Works: The algorithm is trained on labeled data (input + correct 
+output). 
+• Goal: Learn to map inputs to outputs by identifying patterns. 
+• Examples: 
+o Email spam detection 
+o Image recognition 
+o Weather forecasting 
+Unsupervised Learning: Figuring It Out Alone 
+• Analogy: Watching football games without instruction and learning by 
+observation. 
+• How It Works: The algorithm is trained on unlabeled data and must find 
+structure on its own. 
+NSF SBIR/STTR Phase I Eligibility Information: 
+In addition to receiving an invitation to submit a full proposal from the NSF SBIR/STTR Phase I 
+Program based upon the review of their submitted Project Pitch,potential proposers to the program 
+must also qualify as a small business concern to participate in the program (see SBIR/STTR 
+Eligibility Guidefor more information). 
+The firm must be in compliance with the SBIR/STTR Policy Directive(s) and the Code of Federal 
+Regulations (13 CFR 121). 
+• Your company must be a small business (fewer than 500 employees) located in the United 
+States. Please note that the size limit of 500 employees includes affiliates. 
+• At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, 
+and all funded work needs to take place in the United States (including work done by consultants 
+and contractors). 
+• Primary employment is defined as at least 51 percent employed by the small business. NSF 
+normally considers a full-time work week to be 40 hours and considers employment elsewhere 
+of greater than 19.6 hours per week to be in conflict with this requirement. 
+• The Principal Investigator needs to commit to at least one month (173 hours) of effort to the 
+funded project, per six months of project duration. 
+For more detailed information, please refer to the SBIR/STTR Eligibility Guide by using 
+https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf. Please note that these 
+requirements need to be satisfied at the time an SBIR/STTR award is made, and not necessarilywhen the proposal is submitted.
+• Primary employment is defined as at least 51 percent employed by the small business. NSF 
+normally considers a full-time work week to be 40 hours and considers employment elsewhere 
+of greater than 19.6 hours per week to be in conflict with this requirement. 
+• The Principal Investigator needs to commit to at least one month (173 hours) of effort to the 
+funded project, per six months of project duration. 
+For more detailed information, please refer to the SBIR/STTR Eligibility Guide by using 
+https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf. Please note that these 
+requirements need to be satisfied at the time an SBIR/STTR award is made, and not necessarilywhen the proposal is submitted.
+7. Dear tshingombe, 
+Here is the copy of the Project Pitch with reference number : 00095759 submitted to the 
+Advanced Manufacturing (M) on 12/18/2024. 
+1. Submitter Email 
+tshingombefiston@gmail.com 
+2. Submitter First Name 
+tshingombe 
+3. Submitter Last Name 
+tshitadi 
+4. Submitter Phone Number 
+0725298946 
+5. Company Name 
+Engineering electrical tshingombe 
+6. Company Zip Code 
+10300 
+7. Company State 
+AK 
+8. Company Website 
+htpps//:www.tshingimbefiston.com 
+9. SBIR/STTR topic that best fits your projects technology area 
+Advanced Manufacturing (M) 
+Are you eligible and interested in being considered for the NSF Fast-Track program? 
+Yes 
+Please provide details of the NSF research funding relied upon to meet the eligibility 
+requirements, including: NSF research award number(s); the proposing company personnel 
+involved in each of the listed research awards and their roles in the research awards; and a brief 
+explanation of how the cited research funding relates to the proposed Fast-Track project. (up to 
+150 words) 
+Engineering electrical master skill ,manufacture 
+Please provide details of the customer discovery training relied upon to meet the eligibility 
+conditions, including: a description of the customer discovery training program(s), with 
+corresponding dates and award number(s) or other program identification details; a description of 
+the technology in relation to which the customer discovery was undertaken, and a summary of the 
+customer discovery findings. (Up to 250 words) Engineering electrical manucture electrotech 
+Please check the appropriate box below to indicate whether the proposing Fast-Track team will 
+be complete at the time of proposal submission. 
+Yes 
+10. Is this Project Pitch for a technology or project concept that was previously submitted as a full 
+proposal by your company to the NSF SBIR/STTR Phase I Program – and was not awarded ? 
+Yes 
+Please provide the Proposal Number of the previously submitted full NSF SBIR/STTR Phase I 
+proposal ? 
+1234567 
+Have you contacted the associated NSF SBIR/STTR Program Officer, via email or phone, to 
+discuss this prior full proposal submission? 
+Engineering electrical 
+11. Has your company received a prior NSF SBIR or STTR award? 
+Yes 
+Please provide the Proposal Number of the previously submitted full NSF SBIR/STTR Phase I 
+proposal ? 
+1234567 
+12. Does your company currently have a full Phase I SBIR or STTR proposal under review at 
+NSF? 
+Yes 
+13. Briefly Describe the Technology Innovation?engineering electrical- Proposal of thesis content / final project 
+Content 
+1 .name of thesis 
+2.index 
+3. Introduction. 
+4.description . 
+5.general.analizing 
+6.current information . 
+7.discussion 
+8 conclusion. 
+9. Bibliography. 
+__________________________ 
+1.Name of thesis : implementation and framework national qualification 
+and national trade examination circulum experimental job theoretical 
+pratical college and government policy LMS in engineering studies 
+science electrical businesses module: case studies rsa in dhet,saqa , 
+St peace college 
+2. Index: topic achieve research advance field basic field , essential 
+filling research circulum, fundation intermediate,elementaire 
+3.Introduction : the core and research advanced field experience of 
+sciences engineering electrical study and implement programme in social 
+education and industrial trade vocational career productu sector in 
+energy electrical and science engineering field system need to learn and 
+re implement system information management system sector opportunity 
+and through activities investment horizontal creation of equitable 
+distribution: transformer science engineering and electrical product 
+method learn capacity generative intelligence systems of linear 
+regression models machine learning model for specific results reported 
+that they haveA Mon other aspirations Isreal parameter real power factor 
+and Imagineer power factor ,, need to resolved system exper and 
+artificial intelligence system rural development system residential 
+dispatch deployment system and framework qualification mean regulation 
+humain resource and material work trade design career center to make 
+system LMS factor adaptation between robot science trade elementary work 
+trainer training phase products and systems industrial generator 
+entrepreneurs in same order phase assessment news field and 
+compensation.problem ask rural development need new training order 
+framework to qualicafition requested requalification redesign 
+equivalents system , occupation framework system between national 
+framework qualifications instituts and national trading sector licensed 
+theory and practical in nature and creative abilities, 
+-typical evry country or landscape will be in a constant state of design 
+system in ,,,, 
+Large measure unpredictable and this city or village at different paint 
+of time ,, implementation the Grove years of failed turound .. 
+4.desceiption :at the heart of solutions to framework qualicafition and 
+national trade implementation sub sector training trainer experiementalwork place industrial more student and instituts college trade years 
+external internal work value increase price macro economics instability 
+Crete ,.sice accentuated by advertising shortage high inflation levek 
+rising unemployment capacity industrial trademarks society system and 
+materials adequately support trade training QMS system information 
+commissioner,to under utilities in the address desterious policy design 
+implementation , 
+5. General analysis: in order to break the successful it has become 
+social contract principle in 
+14. Briefly Describe the Technical Objectives and Challenges?Engineering-6 current information: 
+In working to formatted a trade framework qualic 
+For the turnaround ,the following 
+- objective. 
+- the diagnosis the fundamental strategies instituts framework 
+qualicafition national equivalent national trade international sector 
+approval occupation council trade council engineering sector portal 
+career design to synchronise system adaptative sector LMS learner 
+engineering competition grade post senior principal, engineering 
+electrical ,tradesman wire ,cadet minim system up date successful system 
+in design grade operational, framework award qualifition research 
+undertake material test week conductor atom technical engineering 
+innovation learn teach research mark method marks need to implement 
+adaptative system , research topics circulum regulation irregularity 
+material script, backlog system , combination system ,printer and system 
+need to make synchronise system deploy generative job framework 
+undercover job in next generation must going 
+- to discern and isolate the sicio economic environment engineering 
+system trade safety security police , commissioner trade need to meet 
+requirements qualicafition framework and the framework must also show in 
+the social successful but framework it increases by outage loadshedding 
+and social down to declined empirical experiemental in other 
+contemporary ,the regret filled job no successful for time table printer 
+system or computers system experiemental make design advanced research , 
+-7. discussion the objective is to explore that strategies and situation 
+where Rapide performance import. Trade theory.. 
+- conclusion: 
+Whilst the field of strategy has be explored extensively in vast to 
+trade framework qualifications need to requalification system was 
+temporarily qualify expire system in job work sector training and 
+regulations system industrial system need cpd to continue system and 
+subject short and gate more skill job was slow operational field basic 
+in basic was poorly no attandance system advance essential field job 
+make support frame commissioner no meeting system trade retrade was not 
+in the same ways Orders orientation industrial, imperative hard, largely 
+,the research interest and how a fruit full common,ground can be 
+established. 
+- one of the critical virtues of the proposal thesis that it 
+Engineering electrical science make in order to stabilize thought 
+transfer the vei ld consensus building in ,,- the thesis is ,, model design 
+Policy commissioner vs learn vs teacher vs ,, framework national trade 
+vs company property intellectuel business electrical system need to 
+meeting...wrong model design topic ,, research rural energy design 
+framework , and orientation system learner teach career mentor 
+faciltor purpose framework,leaver school need to meeting, 
+Design two g city design systeme economic revenue bank system portal 
+need sector trade to work in place electrical designer b Poste trade 
+case research job workplace resulted was recruited need printer pool 
+position rank no waiting 
+- 8 bibliography: 
+- tshingombe 2023_2924 < Poe's published,,educ technology, magazine net 
+database, St peace college. 
+Record book completed 
+- web TVET dhet ,saqa wab 
+- alu 
+____________________________________ 
+Graduation procedure form . congratulations programme , diploma . 
+-1 data verification. 
+- grade | description| point | numeracy 
+15. Briefly Describe the Market Opportunity? 
+engineering electrical 
+16. Briefly Describe the Company and Team? 
+Engineering electrical master 
+17. How did you first hear about our program? 
+NSF email, webinar, or event 
+NSF SBIR/STTR Phase I Eligibility Information: 
+In addition to receiving an invitation to submit a full proposal from the NSF SBIR/STTR Phase I 
+Program based upon the review of their submitted Project Pitch,potential proposers to the program 
+must also qualify as a small business concern to participate in the program (see SBIR/STTR 
+Eligibility Guidefor more information). 
+The firm must be in compliance with the SBIR/STTR Policy Directive(s) and the Code of Federal 
+Regulations (13 CFR 121). 
+• Your company must be a small business (fewer than 500 employees) located in the United 
+States. Please note that the size limit of 500 employees includes affiliates. 
+• At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, 
+and all funded work needs to take place in the United States (including work done by consultants 
+and contractors).• Primary employment is defined as at least 51 percent employed by the small business. NSF 
+normally considers a full-time work week to be 40 hours and considers employment elsewhere 
+of greater than 19.6 hours per week to be in conflict with this requirement. 
+• The Principal Investigator needs to commit to at least one month (173 hours) of effort to the 
+funded project, per six months of project duration. 
+For more detailed information, please refer to the SBIR/STTR Eligibility Guide by using 
+https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf. Please note that these 
+requirements need to be satisfied at the time an SBIR/STTR award is made, and not necessarily 
+when the proposal is submitted.
+9. To submit an Executive Summary, click on the "Submit New Application" button on the right. To access any Executive Summary you may have submitted before, see the list of past Executive Summaries below.
+My Submissions
+
+Navigation Mode
+Sort by:Executive Summary IDSorted: None
+
+	Sort by:Academic InstitutionSorted: None
+
+	Sort by:Entrepreneurial LeadSorted: None
+
+	Sort by:Technical LeadSorted: None
+
+	Sort by:I-Corps Mentor LeadSorted: None
+
+	Sort by:I-CORPS ProgramSorted: None
+
+	Sort by:Agency Applying FromSorted: None
+
+	Sort by:StatusSorted: None
+
+	Sort by:Submitted DateSorted: None
+
+	Edit
+	View
+	Cohort
+
+P-10307	atlantic international university and college degree	tshingombe tshitadi	tshingombe tshinombe	tshingombe tsitadi	NSF PFI grantee	Other Agency	New	8/15/2025	
+P-09948	Atlantic international university	tshingombe tshitadi	tshingombe tshitadi	tshingombe tshitadi	Hub Sponsored	Other Agency	Declined	2/3/2025	
+P-09874	Engineering electrical tshingombe	tshingombe tshitadi	tshingombe tshitadi	tshingombe tshitadi	Hub Sponsored	Other Agency	Declined	12/19/2024	
+
+Showing 1-3 of 3 records | Page 1 of 1
+I-Corps Executive Summary ID :
+P-10307
+Academic Institution :
+atlantic international university and college degree
+Entrepreneurial Lead :
+tshingombe tshitadi
+Entrepreneurial Lead Email :
+Emailtshingombefiston@gmail.com
+Entrepreneurial Lead Qualification :
+engin
+Technical Lead :
+tshingombe tshinombe
+Technical Lead Email :
+Emailtshingombekb@gmail.com
+Technical Lead Qualification :
+engineering
+I-Corps Mentor :
+tshingombe tsitadi
+I-Corps Mentor Email :
+Emailtshingombekb@gmail.cm
+I-Corps Mentor Qualification :
+enginering
+Should your team be invited to submit an I-Corps Teams grant proposal, who will be submitting the grant proposal as PI :
+Technical Lead (TL)
+Is your team submitting from another federal agency? If so, please select from the drop down below :
+Other Agency
+There are two pathways to establish for the NSF I-Corps Teams program. Which is your team claiming :
+Relevant current/previous NSF research award
+What is the IP status of the innovation :
+Not disclosed to tech transfer office
+Brief Description of Technology (Intellectual Merit) :
+ 
+🧭 1. Career Center Discovery Framework
+🎓 Education-to-Career Progression
+A developmental pathway from grade school to professional roles:
+•	Grade Levels: Preschool → Grade 1–13 → Technical Education → TVET → University
+•	Career Levels: Minim → Cadet → Junior → Senior → Principal
+•	Job Function Mapping: Aligns job roles with grade levels and qualifications
+🧠 Psychometric Assessment Services
+•	Purpose: Identify aptitudes, learning barriers, and career inclinations
+•	Stages:
+o	School readiness
+o	Neurodevelopmental assessments
+o	Learning disorder diagnostics
+o	Accommodation planning
+🧒 2. Life Stage Development (Ages 0–80)
+📘 Key Phases
+•	Early Childhood
+•	Scholastic Phase
+•	Career Exploration
+•	Lifelong Learning
+🧪 School Readiness & Learning Support
+•	Physical and cognitive development
+•	Barriers to learning
+•	Assessment accommodations
+💻 3. ICT & Technical Skills Academy (Sci-Boni)
+📧 Contact: it@sci-boni.co.za
+🧑💻 Youth Training (Ages 18–25
+Brief Description of Commercial Applications (Broader Impacts) :
+•       Provides benchmarking against NSQF standards
+✅ Portfolio-Based Assessment
+•       Each task yields tangible artifacts and measurable outcomes
+•       Ideal for learner exhibitions, competency tracking, and evidence-based evaluation
+✅ Instructor Development
+•       Clear procedural steps
+•       Embedded formative assessment
+•       Emphasis on logic reasoning and circuit behavior
+Would you like help designing a rubric for logic gate testing, a portfolio template for regulated power supply builds, or a crosswalk between NSQF and South African NQF standards? I can also assist in developing a learner tracking sheet for workshop performance or a project exhibition framework.
+This final portion of Exercise 4.1.173 from the Electrician Trade Practical Manual – NSQF Level 5 completes a robust exploration of digital logic gates, both using discrete components and integrated circuits (TTL and CMOS families). It’s a powerful exercise for developing foundational digital electronics skills, and it aligns beautifully with your goals of portfolio-based assessment, competency tracking, and curriculum reform.
+Let’s summarize and structure the instructional design, then explore how it can be transformed into high-impact learning and evaluation tools.
+🔧 Exercise 4.1.173: Practice on Various Logics Using Logic Gates and Circuits
+🎯 Learning Objectives
+By the end of this exercise, trainees will be able to:
+•       Construct and verify OR, AND, and NOT gates using switches, lamps, and ICs
+•       Understand and apply truth tables for basic logic gates
+•       Identify and test TTL and CMOS logic ICs (7408, 7432, 7404, CD4079)
+•       Measure voltage levels and interpret logic states
+•       Use digital IC testers and verify gate functionality
+🧪 Key Tasks and Logic Gate Implementation
+✅ Task 1–3: OR and AND Gates Using Switches and Lamps
+Gate Type	Method	Verification
+OR	Switches + Lamp	Truth table (A + B)
+AND	Switches + Lamp	Truth table (A · B)
+📊 Sample Truth Table (AND Gate)
+A	B	Voltage A	Voltage B	Output Y	LED Status
+0	0	0V	0V	0	OFF
+0	1	0V	5V	0	OFF
+1	0	5V	0V	0	OFF
+1	1	5V	5V	1	ON
+✅ Task 4: AND Gate Using IC 7408
+•       Wire gate-1 (pins 1, 2 → 3) and test logic combinations
+•       Repeat for gate-2 (pins 4, 5 → 6), gate-3 (pins 9, 10 → 8), gate-4 (pins 12, 13 → 11)
+•       Record outputs and verify truth table
+Brief Description of Current Commercialization Plan :
+•       Provides benchmarking against NSQF standards
+✅ Portfolio-Based Assessment
+•       Each task yields tangible artifacts and measurable outcomes
+•       Ideal for learner exhibitions, competency tracking, and evidence-based evaluation
+✅ Instructor Development
+•       Clear procedural steps
+•       Embedded formative assessment
+•       Emphasis on logic reasoning and circuit behavior
+Would you like help designing a rubric for logic gate testing, a portfolio template for regulated power supply builds, or a crosswalk between NSQF and South African NQF standards? I can also assist in developing a learner tracking sheet for workshop performance or a project exhibition framework.
+This final portion of Exercise 4.1.173 from the Electrician Trade Practical Manual – NSQF Level 5 completes a robust exploration of digital logic gates, both using discrete components and integrated circuits (TTL and CMOS families). It’s a powerful exercise for developing foundational digital electronics skills, and it aligns beautifully with your goals of portfolio-based assessment, competency tracking, and curriculum reform.
+Let’s summarize and structure the instructional design, then explore how it can be transformed into high-impact learning and evaluation tools.
+🔧 Exercise 4.1.173: Practice on Various Logics Using Logic Gates and Circuits
+🎯 Learning Objectives
+By the end of this exercise, trainees will be able to:
+•       Construct and verify OR, AND, and NOT gates using switches, lamps, and ICs
+•       Understand and apply truth tables for basic logic gates
+•       Identify and test TTL and CMOS logic ICs (7408, 7432, 7404, CD4079)
+•       Measure voltage levels and interpret logic states
+•       Use digital IC testers and verify gate functionality
+🧪 Key Tasks and Logic Gate Implementation
+✅ Task 1–3: OR and AND Gates Using Switches and Lamps
+Gate Type	Method	Verification
+OR	Switches + Lamp	Truth table (A + B)
+AND	Switches + Lamp	Truth table (A · B)
+📊 Sample Truth Table (AND Gate)
+A	B	Voltage A	Voltage B	Output Y	LED Status
+0	0	0V	0V	0	OFF
+0	1	0V	5V	0	OFF
+1	0	5V	0V	0	OFF
+1	1	5V	5V	1	ON
+✅ Task 4: AND Gate Using IC 7408
+•       Wire gate-1 (pins 1, 2 → 3) and test logic combinations
+•       Repeat for gate-2 (pins 4, 5 → 6), gate-3 (pins 9, 10 → 8), gate-4 (pins 12, 13 → 11)
+•       Record outputs and verify truth table
+Status :
+New
+Submitted Date :
+Aug 15, 2025
+I-Corps Executive Summary ID :
+P-09948
+Academic Institution :
+Atlantic international university
+Entrepreneurial Lead :
+tshingombe tshitadi
+Entrepreneurial Lead Email :
+Emailtshingombefiston@gmail.com
+Entrepreneurial Lead Qualification :
+Engineering electrical master,
+Technical Lead :
+tshingombe tshitadi
+Technical Lead Email :
+Emailtshingombefiston@gmail.com
+Technical Lead Qualification :
+Edition montesorie
+I-Corps Mentor :
+tshingombe tshitadi
+I-Corps Mentor Email :
+Emailtshingombefiston@gmail.com
+I-Corps Mentor Qualification :
+Intelligence it
+Should your team be invited to submit an I-Corps Teams grant proposal, who will be submitting the grant proposal as PI :
+Entrepreneurial Lead (EL)
+Is your team submitting from another federal agency? If so, please select from the drop down below :
+Other Agency
+There are two pathways to establish for the NSF I-Corps Teams program. Which is your team claiming :
+Participating in a regional I-Corps Program
+Current/Previous NSF Research Award # :
+1
+What is the IP status of the innovation :
+Not disclosed to tech transfer office
+Brief Description of Technology (Intellectual Merit) :
+Technologie merite award . Education technology and engineering are Cree magniful .policy information system management resolved crime system intelligence recruitment circulum student design in corp system .
+Brief Description of Commercial Applications (Broader Impacts) :
+Commercial applications are Cree system economic intelligence systems policy circulum cost education award money financial reward in circuit education means resolved quickly system education marking completing survey task job in industriel 
+Brief Description of Current Commercialization Plan :
+Planing organisation systeme delivery system ,hierachie cycle life longer deployment system in time outcome linear system time table phase synchrone system robot Education work .chart team
+Status :
+Declined
+Submitted Date :
+Feb 3, 2025
+I-Corps Executive Summary Detail
+I-Corps Executive Summary ID :
+P-09874
+Academic Institution :
+Engineering electrical tshingombe
+Entrepreneurial Lead :
+tshingombe tshitadi
+Entrepreneurial Lead Email :
+Emailtshingombefiston@gmail.com
+Entrepreneurial Lead Qualification :
+Engineering electrical
+Technical Lead :
+tshingombe tshitadi
+Technical Lead Email :
+Emailtshingombefiston@gmail.com
+Technical Lead Qualification :
+Information technology
+I-Corps Mentor :
+tshingombe tshitadi
+I-Corps Mentor Email :
+Emailtshingombefiston@gmail.com
+I-Corps Mentor Qualification :
+Information
+Should your team be invited to submit an I-Corps Teams grant proposal, who will be submitting the grant proposal as PI :
+Entrepreneurial Lead (EL)
+Is your team submitting from another federal agency? If so, please select from the drop down below :
+Other Agency
+There are two pathways to establish for the NSF I-Corps Teams program. Which is your team claiming :
+Relevant current/previous NSF research award
+Current/Previous NSF Research Award # :
+Engineering
+What is the IP status of the innovation :
+Patent issued
+Patent Number :
+1234567891234567891
+Brief Description of Technology (Intellectual Merit) :
+Engineering electrical award degre diploma framework qualifications graduate resarch national trade diploma regulation certificate outcome job assessments enginering electrical master advance technologie implementation framework language..
+Brief Description of Commercial Applications (Broader Impacts) :
+Engineering electricsl frameworks low ruling irregularity regulation bsck log delivery
+Brief Description of Current Commercialization Plan :
+Planning auditing enginering electrical snf onformstion intellectual computer project ..portofolio 
+Status :
+Declined
+Submitted Date :
+Dec 19, 2024
+ 
+NSF SBIR-STTR Project Pitch
+To submit a Project Pitch, click on the "Submit New Project Pitch" button on the right. To access any Project Pitch you may have submitted before, see the list of past Project Pitches below.
+My Submissions
+
+Navigation Mode
+Sort by:Pitch NumberSorted: None
+
+	Sort by:NameSorted: None
+
+	Sort by:EmailSorted: None
+
+	Sort by:PhoneSorted: None
+
+	Sort by:CompanySorted: None
+
+	Sort by:StatusSorted: None
+
+	Sort by:Topic AreaSorted: None
+
+	Sort by:Submitted as a Fast Track pitchSorted: None
+
+	Sort by:LineageSorted: None
+
+	Sort by:Submitted DateSorted: None
+
+	Edit
+	View
+	Download
+
+00107251	tshingombe tshitadi	tshingombefiston@gmail.com	0725298946	Engineering tshingombe	New	Other Topics (OT)	Yes		8/15/2025	
+00100839	tshingombe tshitadi	tshingombefiston@gmail.com	0725298946	engineering	Decline	Energy Technologies (EN)	No		4/10/2025	
+00098889	tshingombe tshitadi	tshingombefiston@gmail.com	0725298946	Engineering electrical tshingombe	Decline	Energy Technologies (EN)	Yes		2/25/2025	
+00097898	tshingombe tshitadi	tshingombefiston@gmail.com	0725298946	Engineering tshingombe	Decline	Adv. Systems for Scalable Analytics (AA)	No		2/3/2025	
+00095759	tshingombe tshitadi	tshingombefiston@gmail.com	0725298946	Engineering electrical tshingombe	Decline	Advanced Manufacturing (M)	Yes		12/18/2024	
+
+Showing 1-5 of 5 records | Page 1 of 1
+•	Dashboard
+•	View 
+•	Submit 
+•	Invoice
+•	Certificate
+•	Ticket 
+•	Notification
+•	Withdraw Paper
+•	Logout
+Overview
+	
+Total Manuscripts	Under Review
+8	3
+	
+Accepted Papers	Rejected Papers
+4	1
+We Will Show You The Way To Success!
+
+View Status of Manuscript
+
+Submit New Manuscript
+
+Payment Option
+
+ 		
+
+Change profile
+
+Download Certificate/Reports 
+
+Notifications From Editor [0]
+
+Useful Links
+•	ERP Home
+•	Major Topic Covered
+•	How to Publish Paper
+•	Download Paper Template
+•	Archive
+We Will Show You The Way To Success!
+•	May 02, 2017 
+ISSN : 2321-0869 (O) 2454-4698 (P) Impact Factor : 2.19 [According Google C. Report] |SJIF : 5.713 
+ISSN : 2321-0869 (O) 2454-4698 (P) Impact Factor : 2.19 [According Google C. Report] |SJIF : 5.713 | PIF : 4.361
+Read more 
+•	October 03, 2024 
+IJETR invites research paper from various engineering disciplines for Vol. 14 Issue 2 (July-December
+IJETR invites research paper from various engineering disciplines for Vol. 14 Issue 2 (July-December 2024) issue.
+Read more 
+•	January 01, 2017 
+We have started accepting articles by online means directly through website. Its our humble request 
+We have started accepting articles by online means directly through website. Its our humble request to all the researchers to use author login panel for article submission.
+Read more 
+•	October 03, 2024 
+July-December 2024 Volume 14 Issue 2 has been successfully launched.
+July-December 2024 Volume 14 Issue 2 has been successfully launched.
+Read more 
+•	January 01, 2017 
+For more updation of research, please like and visit our Facebook page.
+For more updation of research, please like and visit our Facebook page https://www.facebook.com/Engineering-Research-Publication-213476055461610/
+Read more 
+•	May 02, 2017 
+ISSN : 2321-0869 (O) 2454-4698 (P) Impact Factor : 2.19 [According Google C. Report] |SJIF : 5.713 
+ISSN : 2321-0869 (O) 2454-4698 (P) Impact Factor : 2.19 [According Google C. Report] |SJIF : 5.713 | PIF : 4.361
+Read more 
+•	October 03, 2024 
+IJETR invites research paper from various engineering disciplines for Vol. 14 Issue 2 (July-December
+IJETR invites research paper from various engineering disciplines for Vol. 14 Issue 2 (July-December 2024) issue.
+Read more 
+IJETR Copyright@2013. All Right Reserved
+Rdferz 
+Member since 2022 
+archive.org Member Skip to main content 
+Upload 
+Books Video Audio Software 
+Images 
+• Upload files 
+• My uploads 
+• My loans 
+Skip to content 
+◦ t5h2i0tadi / 
+◦ t5h2i0tadi 
+◦ 
+• Code 
+• Settings 
+CI 
+Create blank.yml enh tshin #1 
+• 
+build 
+succeeded Mar 15, 2024 in 5s 
+Beta Give feedback 
+0s 
+1s 
+Determining the checkout info 
+Checking out the ref 
+/usr/bin/git log -1 --format='%H' 
+'76fb7a88c75b72824ac138782ca3220dbb7de621' 
+0s 
+Run echo Hello, world! 
+Hello, world! 
+0s 
+Run echo Add other actions to build, 
+Add other actions to build, 
+test, and deploy your project. 
+0s 
+Post job cleanup. 
+/usr/bin/git version 
+git version 2.43.2 
+Temporarily overriding HOME='/home/runner/work/_temp/97b82adb-aa33-4005-a32b-b414b5ef0e87' before making global git 
+config changes 
+Adding repository directory to the temporary git global config as a safe directory 
+/usr/bin/git config --global --add safe.directory /home/runner/work/t5h2i0tadi/t5h2i0tadi 
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config 
+--local --unset-all 'core.sshCommand' || :" 
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader 
+http.https://github.com/.extraheader 
+/usr/bin/git config --local --unset-all http.https://github.com/.extraheader 
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/ 
+\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :" 
+0s 
+Cleaning up orphan processes 
+Pull requests 1 
+Actions 
+Projects 2 
+Security 
+Insights 
+Jobs 
+Internet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+1 of 13 
+8/15/2025, 2:39 PM• 
+Run details 
+• 
+• My favorites 
+• My web archives 
+• Account settings 
+• Get help 
+• Log out 
+Search metadata Search text contents Search TV news captions Search radio transcripts Search archived web sites 
+Advanced Search 
+• About 
+• Blog 
+• Projects 
+• Help 
+• Donate 
+• 
+• Contact 
+• Jobs 
+• Volunteer 
+• People 
+gear Settings 
+edit Edit 
+remove-circle Remove items... 
+play Play All 
+Rdferz archive.org Member 
+UPLOADS 
+POSTS 
+REVIEWS 
+COLLECTIONS 
+WEB ARCHIVES 
+22 
+UPLOADS 
+Media Type 
+20 
+texts 
+1 
+data 
+1 
+software 
+Year 
+15 
+2023 
+7 
+2022 
+Topics & Subjects 
+1 
+ENGINEERING NATED 
+1 
+award ruling ccma tshingombe 
+1 
+career tshingombe 
+1 
+ccma labour 
+1 
+ccma labour outcom review transcription 
+1 
+college 
+More right-solid 
+Collection 
+20 
+Community Texts 
+16 
+Internet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+2 of 13 
+8/15/2025, 2:39 PMCommunity Collections 
+1 
+Community Software 
+1 
+Community Data 
+More right-solid 
+Creator 
+13 
+tshingombe 
+1 
+ccma labour 
+1 
+eduction portofolio 
+1 
+engineering teshingombe portofolio 
+1 
+expo science , teacher career 
+1 
+portofolio document st pace tshingombe 
+More right-solid 
+Language 
+22 
+English 
+up-solid 
+down-solid 
+SORT BY 
+VIEWS 
+TITLE 
+DATE ARCHIVED 
+CREATOR 
+Upload 
+upload 
+Community Texts 
+Portofolio Career , Research College Engineering Career Joint Gov Compagny Department 
+Sep 24, 2023 
+texts 
+eye 0 favorite 0 comment 0 
+Community Texts 
+Portofolio Career , Research College Engineering Career Joint Gov Compagny Department 
+Sep 22, 2023 
+texts 
+eye 0 favorite 0 comment 1 
+Community Texts 
+Portofolio Career , Research College Engineering Career Joint Gov Compagny Department 
+Sep 22, 2023 
+texts 
+eye 0 favorite 1 comment 1 
+Community Texts 
+engineering ,business studie xero binairy 
+Sep 9, 2023 
+texts 
+eye 0 favorite 0 comment 1 
+Community Texts 
+Electrical Trade Theory Engineering Nated 
+Sep 9, 2023 
+texts 
+eye 0 favorite 0 comment 1 
+Community Texts 
+Environmental Scan To Determine The Prevalence Of Unaccredited Engineering Programmes 
+Sep 9, 2023 
+texts 
+eye 0 favorite 0 comment 1 
+Community Texts 
+Job Offer Letter From Pro Immigrationegineering electrical 
+May 11, 2023 
+texts 
+eye 13 favorite 0 comment 1 
+Community Texts 
+Engineering Electrical Career Job Workplace Office Place Engineering Outcome 12 
+Internet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+3 of 13 
+8/15/2025, 2:39 PMMay 11, 2023 
+texts 
+eye 7 favorite 0 comment 1 
+Community Texts 
+st peace college 
+Jan 4, 2023 
+texts 
+eye 312 favorite 0 comment 1 
+Community Texts 
+CCMA SUBMISSION REPORT SHEET SECURITY EXTEND TENURE 
+Jan 3, 2023 
+texts 
+eye 41 favorite 0 comment 0 
+Community Texts 
+SUBMISSION REPORT ANNUEL TBRIGADE . 
+Jan 3, 2023 
+texts 
+eye 38 favorite 0 comment 1 
+Community Texts 
+Copy ( 2) Of Saqa Dissertation , Epsp Defense , Facteur 
+Jan 3, 2023 
+texts 
+eye 99 favorite 0 comment 1 
+Community Software 
+Publication 23 NOTICE GOV RESCISSION 
+Jan 3, 2023 
+software 
+eye 10 favorite 0 comment 1 
+Community Texts 
+NOTICE COMPAGNY 1, 2, 3, 4 LEVEL QUALIFY ACCEPT , AB, C tshingombe 
+Jan 3, 2023 
+texts 
+eye 165 favorite 0 comment 1 
+Community Texts 
+ccma labour court tshingombe job 
+Jan 3, 2023 
+texts 
+eye 52 favorite 0 comment 0 
+Community Data 
+NOTICE COMPAGNY ccma labour tshingombe 
+Dec 24, 2022 
+data 
+eye 0 favorite 0 comment 0 
+Community Texts 
+ccma labour court outcm tshingombe 
+Dec 24, 2022 
+texts 
+eye 18 favorite 0 comment 0 
+Community Texts 
+examination tshingombe dipplomat 
+Dec 24, 2022 
+texts 
+eye 325 favorite 1 comment 1 
+Community Texts 
+Supply 4 Compagny Policy Contractor Binary Scryp Egistrar Reward( 1) 
+Dec 24, 2022 
+texts 
+eye 20 favorite 0 comment 1 
+Community Texts 
+Magazine Price Education Bring 
+Dec 24, 2022 
+texts 
+eye 53 favorite 0 comment 1 
+Community Texts 
+Education Technical Technology 2 
+Dec 24, 2022 
+texts 
+eye 17 favorite 0 comment 1 
+Community Texts 
+Internet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+4 of 13 
+8/15/2025, 2:39 PMPortofolio Evidence Low Dhet Saqa Su 
+Dec 24, 2022 
+texts 
+eye 69 favorite 1 comment 1 
+Upload 
+Sort by: 
+Title 
+Creator 
+Weekly views 
+Date archived 
+Search uploads 
+Career 11tf Discovery Job Trade 
+Memo Lecture Learn Note 
+archived Aug 13, 2025 
+0 
+0 
+0 
+Career 2, Experience Discovery 
+Tshingombe Tshitadi 
+archived Aug 11, 2025 
+0 
+0 
+0 
+Career 3 Total Experience 
+Discovery Tshingombe 
+Tshitadi.docx Microsoft.docx 4 
+archived Aug 07, 2025 
+0 
+0 
+0 
+Career 2, Experience Discovery 
+Tshingombe Tshitadi 
+archived Aug 06, 2025 
+0 
+0 
+0 
+Doc 12 Design Analyse Investigate 
+Engineering Tshingombe 
+archived Jul 22, 2025 
+0 
+0 
+0 
+Copy Of PROJECT DRAWING 
+WORKSHET TSHINGOMBE 
+DESIGN ANALYSE ENGIN Book 1 
+( Repaired) ( Autosaved) 3 
+… 
+archived Jul 21, 2025 
+0 
+0 
+0 
+Copy Of PROJECT DRAWING 
+WORKSHET TSHINGOMBE 
+DESIGN ANALYSE ENGIN Book 1 
+( Repaired) ( Autosaved) 3 
+… 
+archived Jul 17, 2025 
+0 
+0 
+0 
+Copy Of PROJECT DRAWING 
+WORKSHET TSHINGOMBE 
+DESIGN ANALYSE ENGIN Book 1 
+( Repaired) 
+… 
+archived Jul 14, 2025 
+0 
+0 
+0 
+Copy Of PROJECT DRAWING 
+WORKSHET TSHINGOMBE 
+DESIGN ANALYSE ENGIN Book 12 
+archived Jul 08, 2025 
+0 
+0 
+0 
+UPLOADS 
+LOANS 
+LISTS 
+POSTS 
+REVIEWS 
+COLLECTIONS 
+WEB ARCHIVES 
+Internet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+5 of 13 
+8/15/2025, 2:39 PMCopy Of PROJECT DRAWING 
+WORKSHET TSHINGOMBE 
+DESIGN ANALYSE ENGIN Book 12 
+archived Jul 07, 2025 
+0 
+0 
+0 
+Doc 13 Design Tshing 
+archived Jul 07, 2025 
+1 
+0 
+0 
+Internet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+6 of 13 
+8/15/2025, 2:39 PMInternet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+7 of 13 
+8/15/2025, 2:39 PMInternet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+8 of 13 
+8/15/2025, 2:39 PMInternet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+9 of 13 
+8/15/2025, 2:39 PMInternet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+10 of 13 
+8/15/2025, 2:39 PMInternet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+11 of 13 
+8/15/2025, 2:39 PMInternet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+12 of 13 
+8/15/2025, 2:39 PMUpload 
+Internet Archive: Digital Library of Free & Borrowable Texts, Movie... 
+https://archive.org/details/@rdferz 
+13 of 13 
+8/15/2025, 2:39 PM
+ 
+file_uploadSubmit your research 
+•	Browse 
+•	Gateways & Collections 
+•	How to Publish 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+•	About 
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+o	
+•	My Research 
+o	
+o	
+o	
+•	Sign Out 
+Tracking Submissions
+Home My Research Submissions 
+My Research 
+•	Submissions 
+•	Content and Tracking Alerts 
+•	My Details 
+Submissions
+Check the guidelines for information on how to publish your articles, posters and slides in F1000Research. Learn more about the F1000Research article publishing model. 
+Drafts Submitted Published Closed Submissions 
+Document 
+project engineeombination nated n diploma , and nn diploma combination  engineering , and leaarning teching job career                                    ring 
+tshingombe tshitadi, tshingombe tshitadi 
+Submitted: 15 Aug 2025 
+Document 
+analyse investigation enginering 
+tshingombe tshitadi, tshingombe tshitadi 
+Submitted: 15 Aug 2025 
+Document 
+project  engineering   Career Discovery and Mentoring Framework for Technical and Vocational Education  
+tshingombe tshitadi, tshingombe tshitadi 
+Submitted: 15 Aug 2025 
+Document 
+engineering Research cvs build curriculum project job course module experimental Engineering electrical master education on sited department gov and council nation and trade industrial join a
+tshingombe tshitadi, tshingombe tshitadi 
+Submitted: 15 Aug 2025 
+ 
+An innovative open access publishing platform offering rapid publication and open peer review, whilst supporting data deposition and sharing.
+Browse Gateways Collections How it Works Contact For Developers Cookie Notice Privacy Notice RSS 
+Submit Your Research 
+Follow us 
+© 2012-2025 F1000 Research Ltd. ISSN 2046-1402 | Legal | Partner of Research4Life • CrossRef • ORCID • FAIRSharing
+fts Submitted Published Closed Submissions 
+Article 
+Case Report: research and project master energy rural career experimental engineering electrical job
+tshingombe tshitadi 
+REJECTED 
+Date: 17 Apr 2025 
+Document 
+policy implementation job work combine
+tshingombe tshitadi, tshingombekb@gmail.com tshitadi 
+REJECTED 
+Date: 11 Apr 2025 
+Document 
+  master   career mentor discovery  energy rural engineering electrical outcom
+tshingombe tshitadi, tshingombe fiston 
+REJECTED 
+Date: 11 Apr 2025 
+Document 
+career project implementation framework design
+tshingombe tshitadi, tshingombe tshitadi 
+REJECTED 
+Date: 11 Apr 2025 
+Document 
+final thesis prposal  project  career master doctoral  education rural job combinaton regulation energy rural
+tshingombe tshitadi, tshingombe tshitadi 
+REJECTED 
+Date: 11 Apr 2025 
+Slides 
+thesis education technology    ,alumni   energy rural  TEVET lecture under planing..Framework qualicafication nated ncv combination irregularity back log  insurance  assessment policy engineering studies  Work experimental based regulation discovery  Portfolio skill development rural energy   low rules   
+tshingombe tshitadi, tshingombe tshingombe 
+REJECTED 
+Date: 03 Mar 2025 
+Document 
+1.1.2Education technology,: Education engineering relate low manufacture  .. Degree honorable ; college low labor ju  
+tshingombe tshitadi, tshingombe tshitadi 
+REJECTED 
+Date: 03 Mar 2025 
+Document 
+1 .1.1  *Thesis: * Research  policy   trade theory minimum : legislation skill development :     honorable  member  certificate transcript outcome award  
+tshingombe tshitadi, tshingombe tshitadi 
+REJECTED 
+Date: 03 Mar 2025 
+Slides 
+Thesis. Degree honor, council quality rules low become justice development court and labor relations conciliation mediation, Engineering electrical trade research policy skill ,safety security order develop ,defense order  
+tshingombe tshitadi 
+REJECTED 
+Date: 03 Mar 2025 
+Poster 
+____________ 4.1 .12.1.Name of thesis : implementation and framework national qualification and national trade examination circulum experimental job theoretical pratical college and government policy LMS  in engineering studies science electrical businesses module: case studies rsa  in dhet,saqa , St peace college  
+tshingombe tshitadi, tshingombe 
+REJECTED 
+Date: 03 Mar 2025 
+Article 
+Thesis master  doctoral engineering electrical subject ciriculum framework qualicafition Education technology
+tshingombe tshitadi, tshingombe kb 
+REJECTED 
+Date: 09 Feb 2025 
+Article 
+Research education technology and research engineer electrical master degree and honour  framework qualification and trade master skill low test
+tshingombe tshitadi 
+REJECTED 
+Date: 24 Jan 2025 
+Article 
+1 .1.1  *Thesis: * Research  policy   trade theory minimum : legislation skill development :   honorable  member  certificate transcript outcome award
+tshingombe tshitadi, tshingombekb@gmail.com tshingombekb@gmail.com, info@email.careersportal.co.za et al 
+REJECTED 
+Date: 03 Feb 2025 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View Status
+Sr NO	Paper Id	Paper Title	Publication Issue	Status	Paper Submission Date	Final Paper	Payment	Remarks 
+1	IJETR3172	project engineering trade examination 	Volume 15 Issue 1	Pending 
+View Details 
+15 Aug 2025	Pending 	Pending 	Not Published 
+2	IJETR3171	project design analyse engineering dicovery 	Volume 15 Issue 1	Pending 
+View Details 
+15 Aug 2025	Pending 	Pending 	Not Published 
+3	IJETR3170	project engineering Career Discovery and Mentoring Framework for Technical and Vocational Education	Volume 15 Issue 1	Pending 
+View Details 
+15 Aug 2025	Pending 	Pending 	Not Published 
+4	IJETR3157	Case Report: research and project master energy rural career experimental engineering electrical job integrity engineering electrical technologie are agree geneeration system on irregularity system training career and regulation cvs job conflict on job 	Volume 15 Issue 1	Accepted 
+View Details 
+17 Apr 2025	Pending 	Pending 	Not Published 
+5	IJETR3156	project career master engineering electrical career mentor job 	Volume 15 Issue 1	Accepted 
+View Details 
+11 Apr 2025	Pending 	Pending 	Not Published 
+6	IJETR3155	project career master job engineering thesis master rural experimental electrical engineering 	Volume 15 Issue 1	Accepted 
+View Details 
+11 Apr 2025	Pending 	Pending 	Not Published 
+7	IJETR3148	project engineering thesis master rural 	Volume 15 Issue 1	Rejected 
+View Details 
+18 Feb 2025	***** 	******* 	****** 
+8	IJETR3147	Re: Thesis . Degree honour ,council quality rules low become justice development court and labour relations counciliation mediation , Engineering electrical trade research policy skill ,safety security order developm ,defense order	Volume 15 Issue 1	Accepted 
+View Details 
+16 Feb 2025	Pending 	Pending 	Not Published 
+Overview
+	
+Total Manuscripts	Under Review
+8	3
+	
+Accepted Papers	Rejected Papers
+4	1
+We Will Show You The Way To Success!
+
+View Status of Manuscript
+
+Submit New Manuscript
+
+Payment Option
+
+ 		
+
+Change profile
+
+Download Certificate/Reports 
+
+Notifications From Editor [0]
+
+Useful Links
+•	ERP Home
+•	Major Topic Covered
+•	How to Publish Paper
+•	Download Paper Template
+•	Archive
+We Will Show You The Way To Success!
+•	May 02, 2017 
+ISSN : 2321-0869 (O) 2454-4698 (P) Impact Factor : 2.19 [According Google C. Report] |SJIF : 5.713 
+ISSN : 2321-0869 (O) 2454-4698 (P) Impact Factor : 2.19 [According Google C. Report] |SJIF : 5.713 | PIF : 4.361
+Read more 
+•	October 03, 2024 
+IJETR invites research paper from various engineering disciplines for Vol. 14 Issue 2 (July-December
+IJETR invites research paper from various engineering disciplines for Vol. 14 Issue 2 (July-December 2024) issue.
+Read more 
+•	January 01, 2017 
+We have started accepting articles by online means directly through website. Its our humble request 
+We have started accepting articles by online means directly through website. Its our humble request to all the researchers to use author login panel for article submission.
+Read more 
+•	October 03, 2024 
+July-December 2024 Volume 14 Issue 2 has been successfully launched.
+July-December 2024 Volume 14 Issue 2 has been successfully launched.
+Read more 
+•	January 01, 2017 
+For more updation of research, please like and visit our Facebook page.
+For more updation of research, please like and visit our Facebook page https://www.facebook.com/Engineering-Research-Publication-213476055461610/
+Read more 
+•	May 02, 2017 
+ISSN : 2321-0869 (O) 2454-4698 (P) Impact Factor : 2.19 [According Google C. Report] |SJIF : 5.713 
+ISSN : 2321-0869 (O) 2454-4698 (P) Impact Factor : 2.19 [According Google C. Report] |SJIF : 5.713 | PIF : 4.361
+Read more 
+•	October 03, 2024 
+IJETR invites research paper from various engineering disciplines for Vol. 14 Issue 2 (July-December
+IJETR invites research paper from various engineering disciplines for Vol. 14 Issue 2 (July-December 2024) issue.
+Read more 
+Invoices
+Sr No.	Paper Id	Paper Title	Publication Issue	Status	Date	Payment	Action
+1
+IJETR3147	Re: Thesis . Degree honour ,council quality rules low become justice development court and labour relations counciliation mediation , Engineering electrical trade research policy skill ,safety security order developm ,defense order	Volume 15 Issue 1	Accepted 	18/Feb/25	Pending 	
+2
+IJETR3155	project career master job engineering thesis master rural experimental electrical engineering 	Volume 15 Issue 1	Accepted 	15/Apr/25	Pending 	
+3
+IJETR3156	project career master engineering electrical career mentor job 	Volume 15 Issue 1	Accepted 	15/Apr/25	Pending 	
+4
+IJETR3157	Case Report: research and project master energy rural career experimental engineering electrical job integrity engineering electrical technologie are agree geneeration system on irregularity system training career and regulation cvs job conflict on job 	Volume 15 Issue 1	Accepted 	22/Apr/25	Pending 	
+ 
+Invoice #983
+Unpaid 
+ 
+
+
+________________________________________
+Pay To: 
+Engineering Research Publication
+S-50, RIICO Industrial Area, Shahpura Jaipur. Rajasthan. INDIA. 303103 
+Invoiced To: 
+tshingombe 
+, 
+
+South Africa 
+Payment Method:
+ 
+Invoice Date:
+22/Apr/25
+
+Invoice Items
+Description	Amount
+Paper Id: IJETR3157 Case Report: research and project master energy rural career experimental engineering electrical job integrity engineering electrical technologie are agree geneeration system on irregularity system training career and regulation cvs job conflict on job 	USD 75
+DOI Fee: 	USD 15
+	
+PayPal Transition and Service charges(10 %):	USD 9
+	
+Total	USD 99
+ 
+Invoice #982
+Unpaid 
+ 
+
+
+________________________________________
+Pay To: 
+Engineering Research Publication
+S-50, RIICO Industrial Area, Shahpura Jaipur. Rajasthan. INDIA. 303103 
+Invoiced To: 
+tshingombe 
+, 
+
+South Africa 
+Payment Method:
+ 
+Invoice Date:
+15/Apr/25
+
+Invoice Items
+Description	Amount
+Paper Id: IJETR3156 project career master engineering electrical career mentor job 	USD 75
+DOI Fee: 	USD 15
+	
+PayPal Transition and Service charges(10 %):	USD 9
+	
+Total	USD 99
+ 
+Invoice #981
+Unpaid 
+ 
+
+
+________________________________________
+Pay To: 
+Engineering Research Publication
+S-50, RIICO Industrial Area, Shahpura Jaipur. Rajasthan. INDIA. 303103 
+Invoiced To: 
+tshingombe 
+, 
+
+South Africa 
+Payment Method:
+ 
+Invoice Date:
+15/Apr/25
+
+Invoice Items
+Description	Amount
+Paper Id: IJETR3155 project career master job engineering thesis master rural experimental electrical engineering 	USD 75
+DOI Fee: 	USD 15
+	
+PayPal Transition and Service charges(10 %):	USD 9
+	
+Total	USD 99
+View Ticket Status
+Sr. No.	Date	Ticket Id	Subject	Department	Status	View
+1	16/Feb/2025	IJETR3147	Re: Thesis . Degree honour ,council quality rules low become justice development court and labour re	Accounts		
+2	16/Feb/2025	IJETR3147	Re: Thesis . Degree honour ,council quality rules low become justice development court and labour re	Accounts	
+3	16/Feb/2025	IJETR3147	Re: Thesis . Degree honour ,council quality rules low become justice development court and labour re	Editor	
+
+ 
+International Journal of Engineering & Technical Research (AN ISO 9001:2008 CERTIFIED INTERNATIONAL JOURNAL)
+•	Profile
+•	Change Password 
+•	Welcome
+•	tshingombe 
+•	Dashboard
+•	View 
+•	Submit 
+•	Invoice
+•	Certificate
+•	Ticket 
+•	Notification
+•	Withdraw Paper
+•	Logout
+Download Report
+Sr No.	Paper Id	Paper Title	Publication Issue	Status	Date	Payment	Report
+1
+IJETR3147	Re: Thesis . Degree honour ,council quality rules low become justice development court and labour relations counciliation mediation , Engineering electrical trade research policy skill ,safety security order developm ,defense order	Volume 15 Issue 1	Paper Accepted 	22-Jan-2025	Pending	
+2
+IJETR3155	project career master job engineering thesis master rural experimental electrical engineering 	Volume 15 Issue 1	Paper Accepted 	22-Jan-2025	Pending	
+3
+IJETR3156	project career master engineering electrical career mentor job 	Volume 15 Issue 1	Paper Accepted 	22-Jan-2025	Pending	
+4
+IJETR3157	Case Report: research and project master energy rural career experimental engineering electrical job integrity engineering electrical technologie are agree geneeration system on irregularity system training career and regulation cvs job conflict on job 	Volume 15 Issue 1	Paper Accepted 	22-Jan-2025	Pending	
+5
+IJETR3170	project engineering Career Discovery and Mentoring Framework for Technical and Vocational Education	Volume 15 Issue 1	Paper Submited 	22-Jan-2025	Pending	
+6
+IJETR3171	project design analyse engineering dicovery 	Volume 15 Issue 1	Paper Submited 	22-Jan-2025	Pending	
+7
+IJETR3172	project engineering trade examination 	Volume 15 Issue 1	Paper Submited 	22-Jan-2025	Pending	
+IJETR Copyright@2013. All Right Reserved
+ 
+Did you notice Azure Boards has a new look and 
+awesome new features? Learn more. 
+thesis master atalantic … 
+ 
+ 
+Overview 
+Boards 
+ Work items 
+� Boards 
+� Backlogs 
+� Sprints 
+� Queries 
+ Delivery Plans 
+ Analytics views 
+Repos 
+Pipelines 
+Test Plans 
+Artifacts 
+ Project settings 
+ 
+Work items 
+ 
+Recently updated  
+ New Work Item  
+  
+Filter by keyword 
+Types  
+Assigned to 
+ 86 
+ discovery career science technical engineering 
+85 
+ engineering trade programe 
+83 
+ engineering nated nvc excell research tvet 
+84 
+ nrf engineering 
+82 
+ engieering visual excell ms word 
+81 
+ engineringvisual basic 
+80 
+ engineerin g visual basic data system 
+79 
+ engineering visual basic 
+78 
+ engineering excell visual basic ts 
+77 
+ engineering tshingombe 
+76 
+ engineeri g tshingome 
+75 
+ engineering 
+74 
+ engineering data system 
+73 
+ engineering 
+72 
+ engineering 
+71 
+ engineering 
+70 
+ engineering 
+69 
+ enginnering tshingombe 
+ID 
+Title 
+ 
+Azure DevOps tshingombefiston0091 / thesis master atalantic azure / Boards / Work items  Search 
+Work items - Boards 
+https://dev.azure.com/tshingombefiston0091/thesis%20master%20atal... 
+1 of 1 
+8/15/2025, 2:36 PM
+
+
+
+
+My Applications 
+Instructions 
+• Please consult relevant Call documents at: 
+NRF Call for Proposals for Funding in 2023 
+and 2024– National Research Foundation. 
+• Acceptance of Award guide: https:// 
+www.nrf.ac.za/nrf-connect/nrf-connect 
+documents/ 
+• SARAO Postgraduate Scholarship Application 
+Guide: SARAO Postgraduate Scholarships 
+Application Guide for the 2024 Academic Year 
+The 2024 NRF Next Genera�on and Emerging 
+Researchers Symposium 
+The NRF is launching the Next Genera�on and 
+Emerging Researchers Symposium in October 2024. 
+This symposium aims to create a pla�orm for 300 
+postgraduate students and emerging researchers to 
+connect, exchange knowledge, and share innova�ve 
+research projects. 
+The symposium will align with the abstracts via 
+NRFConnect. Read here: h�ps://www.nrf.ac.za/ 
+the-2024-nrf-next-genera�on-and-emerging 
+researchers-symposium. 
+Category 
+List of Applications 
+ 
+Concept Notes 
+Concept Notes for Large Integrated Projects Foundational Biodiversity Inf 
+0009-0005-2690-9559 
+Home 
+Profile 
+MY APPLICATIONS 
+Applications 
+REPORTS 
+Feedback on Submission 
+Acceptance of Nomination 
+MY CV 
+Career History 
+Quali�cations/Certi�cations 
+Research Expertise 
+Research Outputs 
+ 
+Student Supervision 
+CV Preview 
+DISCLAIMERS & POLICIES 
+NRF Connect 
+tshingombe tshingombe 
+ 
+ 
+My Applications | NRF Connect 
+https://nrfconnect.nrf.ac.za/applications 
+1 of 4 
+4/17/2025, 10:11 AM 
+ 
+ 
+ 
+ 
+Category 
+Reference Applied Date 
+Status 
+FBIC250410310077 
+10/04/2025 
+Application Complete 
+ 
+Institutional Grants 
+SARChI Communities of Practice 
+DSTI/NRF- Basic Sciences Research Chairs 
+Reference Applied Date 
+Status 
+COP250411310245 
+11/04/2025 
+Application In Progress 
+Reference Applied Date 
+Status 
+SARC250414310630 
+14/04/2025 
+Application In Progress 
+ 
+Non-funding Opportunities 
+NRF Awards 
+Reference Applied Date 
+Status 
+NONF250411310281 
+11/04/2025 
+Application Complete 
+ 
+Postdoctoral Grants 
+NRF Postdoctoral Grants 
+Reference Applied Date 
+Status 
+0009-0005-2690-9559 
+Home 
+Profile 
+MY APPLICATIONS 
+Applications 
+REPORTS 
+Feedback on Submission 
+Acceptance of Nomination 
+MY CV 
+Career History 
+Quali�cations/Certi�cations 
+Research Expertise 
+Research Outputs 
+ 
+Student Supervision 
+CV Preview 
+DISCLAIMERS & POLICIES 
+NRF Connect 
+tshingombe tshingombe 
+ 
+ 
+My Applications | NRF Connect 
+https://nrfconnect.nrf.ac.za/applications 
+2 of 4 
+4/17/2025, 10:11 AM 
+ 
+ 
+ 
+Category 
+PSTD250411310291 
+11/04/2025 
+Application In Progress 
+ 
+Research Grants 
+Foundational Biodiversity Information Programme (FBIP) - Small Grants 
+Support for Y-rated Researchers 
+Thuthuka PhD Track 
+Thuthuka Rating Track 
+Black Academics Advancement Programme PhD Track 
+Reference Applied Date 
+Status 
+FBIS250411310247 
+11/04/2025 
+Application In Progress 
+Reference Applied Date 
+Status 
+CSRP250411310248 
+11/04/2025 
+Application In Progress 
+Reference Applied Date 
+Status 
+TTK250411310249 
+11/04/2025 
+Application In Progress 
+Reference Applied Date 
+Status 
+TTK250411310253 
+11/04/2025 
+Application In Progress 
+0009-0005-2690-9559 
+Home 
+Profile 
+MY APPLICATIONS 
+Applications 
+REPORTS 
+Feedback on Submission 
+Acceptance of Nomination 
+MY CV 
+Career History 
+Quali�cations/Certi�cations 
+Research Expertise 
+Research Outputs 
+ 
+Student Supervision 
+CV Preview 
+DISCLAIMERS & POLICIES 
+NRF Connect 
+tshingombe tshingombe 
+ 
+ 
+My Applications | NRF Connect 
+https://nrfconnect.nrf.ac.za/applications 
+3 of 4 
+4/17/2025, 10:11 AM 
+ 
+ 
+ 
+Category 
+Black Academics Advancement Programme Post PhD Track 
+Africa-UK Physics Partnership 
+Reference Applied Date 
+Status 
+NFSG250411310255 
+11/04/2025 
+Application In Progress 
+Reference Applied Date 
+Status 
+NFSG250411310256 
+11/04/2025 
+Application In Progress 
+NFSG250411310257 
+11/04/2025 
+Application In Progress 
+Reference Applied Date 
+Status 
+AUPP250414310636 
+14/04/2025 
+Application In Progress 
+0009-0005-2690-9559 
+Home 
+Profile 
+MY APPLICATIONS 
+Applications 
+REPORTS 
+Feedback on Submission 
+Acceptance of Nomination 
+MY CV 
+Career History 
+Quali�cations/Certi�cations 
+Research Expertise 
+Research Outputs 
+ 
+Student Supervision 
+CV Preview 
+DISCLAIMERS & POLICIES 
+NRF Connect 
+tshingombe tshingombe 
+ 
+ 
+My Applications | NRF Connect 
+https://nrfconnect.nrf.ac.za/applications 
+4 of 4 
+4/17/2025, 10:11 AM 
+ 
+ 
+ 
+
+
 Career Discovery and Mentoring Framework for Technical and Vocational Education	Curriculum Monograph	2025	ISBN: [Pending]	Ready for Indexing
 Master Education Technology Rural Implementation Framework	Journal Article	2025	ISBN: 520-03-123456	Attended
 Engineering Master Doctoral Framework – Rural Trade Curriculum	Patent	2025	Patent No: 520520	Granted
